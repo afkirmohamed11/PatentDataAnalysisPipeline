@@ -1,0 +1,89 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="author" content="colorlib.com">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,900|Poppins:700" rel="stylesheet" />
+    <link href="{{ url_for('static', filename='css/main.css')}}"rel="stylesheet" />
+  </head>
+  <body>
+    <div class="s012">
+      <form method="POST" action="{{ url_for('findPatents') }}">
+        <fieldset>
+          <legend>Search Patents</legend>
+        </fieldset>
+        <div class="inner-form">
+          <header>
+          </header>
+          <div class="main-form" id="main-form">
+            <div class="row">
+              <div class="input-wrap">
+                <div class="input-field">
+                  <label>Search</label>
+                  <input type="text" name="search" placeholder="Patent title" required />
+                </div>
+              </div>
+            </div>
+            <div class="row third">
+              <div class="input-checkbox-group">
+                <div class="input-checkbox">
+                  <input id="cipo" type="checkbox" name="provider" value="cipo" checked="checked" />
+                  <label for="cipo">CIPO</label>
+                </div>
+                <div class="input-checkbox">
+                  <input id="googlepatent" type="checkbox" name="provider" value="googlepatent" />
+                  <label for="googlepatent">Google Patent</label>
+                </div>
+                <div class="input-checkbox">
+                  <input id="epo" type="checkbox" name="provider" value="epo" />
+                  <label for="epo">EPO</label>
+                </div>
+                <div class="input-checkbox">
+                  <input id="espacenet" type="checkbox" name="provider" value="espacenet" />
+                  <label for="espacenet">ESPACENET</label>
+                </div>
+                <div class="input-checkbox">
+                  <input id="uspto" type="checkbox" name="provider" value="uspto" />
+                  <label for="uspto">USPTO</label>
+                </div>
+              </div>
+            </div>
+            <div class="row last">
+              <button class="btn-search" type="submit">Search</button>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+    <script src="{{ url_for('static', filename='js/extention/choices.js')}}" ></script>
+    <script>
+      const choices = new Choices('[data-trigger]',
+      {
+        searchEnabled: false,
+        itemSelectText: '',
+      });
+
+    </script>
+    <script src="{{ url_for('static', filename='js/extention/flatpickr.js')}}"></script>
+    <script>
+      flatpickr(".datepicker",
+      {
+        dateFormat: "m/d/y"
+      });
+      var btnTypes = document.querySelectorAll('.travel-type-wrap .item')
+      for (let i = 0; i < btnTypes.length; i++)
+      {
+        btnTypes[i].addEventListener('click', function()
+        {
+          for (let i = 0; i < btnTypes.length; i++)
+          {
+            btnTypes[i].classList.remove('active')
+          }
+          btnTypes[i].classList.add('active')
+        })
+      }
+
+    </script>
+  </body>
+</html>

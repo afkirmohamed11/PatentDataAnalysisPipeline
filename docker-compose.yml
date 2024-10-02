@@ -1,0 +1,48 @@
+version: '3.8'
+services:
+  mongodb:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: admin
+    ports:
+      - 27017:27017
+    networks:
+      - backend
+
+  streamlit:
+    build:
+      context: src/python
+      dockerfile: Dockerfile
+    ports:
+      - 8080:8501
+    networks:
+      - backend
+  
+  flask:
+    build:
+      context: src/flask
+      dockerfile: Dockerfile
+    ports:
+      - 5000:5000
+    networks:
+      - backend
+
+  mongo-express:
+    image: mongo-express:latest
+    restart: always
+    ports:
+      - 8085:8081
+    environment:
+      ME_CONFIG_MONGODB_ADMINUSERNAME: 
+      ME_CONFIG_MONGODB_ADMINPASSWORD: 
+      ME_CONFIG_MONGODB_URL: 
+    networks:
+      - backend
+
+networks:
+  backend:
+    driver: bridge

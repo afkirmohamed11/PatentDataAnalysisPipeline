@@ -1,0 +1,231 @@
+{% extends 'base2.html' %}
+
+{% block content %}
+
+{% for message in get_flashed_messages() %}
+    <div class="alert alert-success" role="alert">
+        {{ message }}
+    </div>
+{% endfor %}
+{% if providers %}
+
+    <br/><br/><br/>
+    {% set provlist = {"cipo": "CIPO", "googlepatent": "Google Patent", "uspto": "USPTO", "espacenet": "ESPACENET", "epo": "EPO"} %}
+    {% set ns = namespace(total_index=0) %}
+    {% for prov,our_patents in providers.items() %}
+        {% for our_patent in our_patents %}
+    <div class="container{{ ns.total_index }}">
+        <div class="card{{ ns.total_index }} tabs{{ ns.total_index }}">
+          <input id="tab-1{{ ns.total_index }}" type="radio" class="tab tab-selector" checked="checked" name="tab" />
+          <label for="tab-1{{ ns.total_index }}" class="tab tab-primary">Overview</label>
+          <input id="tab-2{{ ns.total_index }}" type="radio" class="tab tab-selector" name="tab" />
+          <label for="tab-2{{ ns.total_index }}" class="tab tab-success">Abstract</label>
+          <input id="tab-3{{ ns.total_index }}" type="radio" class="tab tab-selector" name="tab" />
+          <label for="tab-3{{ ns.total_index }}" class="tab tab-default">Inventors</label>
+          <a id="tab-4{{ ns.total_index }}"  class="tab tab-primary" href="{{ our_patent['link'] }}" target="_blank">
+            <input id="tab-4{{ ns.total_index }}" type="radio" class="tab tab-selector" name="tab" />
+          <label for="tab-4{{ ns.total_index }}" class="tab tab-primary">Go To Patent</label></a>
+          <div class="tabsShadow"></div>
+          <div class="glider"></div>
+          <section class="content">
+            <div class="item" id="content-1{{ ns.total_index }}">
+              <h2 class="tab-title tab-primary">{{our_patent['title']}}</h2>
+              <p>
+                <span class = "numit">Provider: </span> {{ provlist[prov] }}
+              </p>
+              <p>
+                <span class = "numit">Publication Date: </span> {{our_patent['publication_date']}}</p>
+              </p>
+              <p>
+                <span class = "numit">Application Date: </span> {{our_patent['application_date']}}</p>
+              </p>
+              <p>
+                <span class = "numit">ID: </span> {{our_patent['code']}}</p>
+            </div>
+            <div class="item" id="content-2{{ ns.total_index }}">
+              <p>
+                <span class = "numit"></span> {{ our_patent['abstract'] }} </p>
+            </div>
+            <div class="item" id="content-3{{ ns.total_index }}">
+                {% if our_patent['inventors'] is sequence and our_patent['inventors'] is not string %}
+                    {% for inventor in our_patent['inventors'] %}
+                        <p><span class = "numit"></span> {{ inventor }}</p>
+                    {% endfor %}
+                {% else %}
+                <p><span class = "numit"></span> {{ our_patent['inventors'] }}</p>
+                {% endif %}
+            </div>
+          </section>
+        </div>
+    </div>
+        <br/><br/><br/>
+        {% set ns.total_index = ns.total_index + 1 %}
+        {% endfor %}
+    {% endfor %}
+{% endif %}
+{% for index2 in range(ns.total_index) %}
+<style>
+.container{{ index2 }} {
+  width: 100%;
+  padding: 10px 0;
+  text-align: center;
+  width: 90%;
+  padding: 10px 0px;
+  text-align: center;
+  margin: auto;
+}
+.container{{ index2 }} .card{{ index2 }} {
+  max-width: 600px;
+  min-height: 140px;
+  min-width: 595px;
+
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid #e3e3e3;
+  margin: 0 auto;
+}
+.tabs{{ index2 }} {
+  text-align: left;
+  position: relative;
+}
+.tabs{{ index2 }} input {
+  position: absolute;
+  opacity: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.tabs{{ index2 }} input + label:hover {
+  color: #777;
+}
+.tabs{{ index2 }} .tabsShadow {
+  width: 100%;
+  padding: 10px;
+  box-shadow: 0 0 25px 0 rgba(0, 0, 0, 0.04);
+  box-sizing: border-box;
+  position: absolute;
+  height: 35px;
+  z-index: 0;
+  top: 0;
+  pointer-events: none;
+}
+
+.tabs{{ index2 }} input {
+  position: relative;
+  opacity: 0;
+  margin: auto !important;
+  padding: 0;
+}
+
+.container{{ index2 }} .card{{ index2 }} {
+  max-width: 600px;
+  min-height: 140px;
+  border-radius: 10px;
+  border: none;
+  margin: 0 auto;
+  z-index: 4 !important;
+  position: relative;
+  background: linear-gradient(#141e30, #243b55);
+  background: #16181a;
+  border-top: 1px solid #3b3d3f;
+  background: hsl(232deg 18% 8%);
+}
+.tabs{{ index2 }} input + label {
+  margin: 12px -8px;
+  width: 15%;
+  transition: all 0.3s;
+  text-align: center;
+  border: none;
+  border-bottom: 0.5pt solid #1d1e22;
+  color: #e7e9f5;
+  display: inline-flex;
+  -webkit-box-pack: center;
+  padding: 5pt 10pt;
+  vertical-align: top;
+  justify-content: flex-start;
+  background: #333;
+  box-shadow: 1px 1px 2px 1px #231f20;
+  text-transform: uppercase;
+  font-weight: 300;
+  font-size: 8pt;
+  background: #26292c;
+  margin-bottom: 0.5px;
+  border-radius: 7px 7px 0 0 !important;
+  border-top: 1px solid #3b3d3f;
+  letter-spacing: 0.1666666667em !important;
+  font-family: "antique-olive" !important;
+  background: hsl(232deg 6% 17%);
+  cursor: pointer;
+}
+
+#tab-1{{ index2 }}:checked ~ .glider {
+  left: 0px;
+}
+#tab-2{{ index2 }}:checked + label {
+  color: #51a14c;
+}
+#tab-2{{ index2 }}:checked ~ .glider {
+  background: linear-gradient(90deg, #51a14c 0%, #10c33e 100%);
+  box-shadow: 0px 0px 8px 0px rgba(47, 187, 12, 0.62);
+}
+
+#tab-3{{ index2 }}:checked + label {
+  color: #525252;
+}
+#content-1{{ index2 }} {
+  opacity: 1;
+  visibility: visible;
+}
+
+#tab-2{{ index2 }}:checked ~ section #content-1{{ index2 }},
+#tab-3{{ index2 }}:checked ~ section #content-1{{ index2 }},
+#tab-4{{ index2 }}:checked ~ section #content-1{{ index2 }} {
+  opacity: 0;
+  visibility: hidden;
+}
+
+#tab-1{{ index2 }}:checked ~ section #content-1{{ index2 }},
+#tab-2{{ index2 }}:checked ~ section #content-2{{ index2 }},
+#tab-3{{ index2 }}:checked ~ section #content-3{{ index2 }},
+#tab-4{{ index2 }}:checked ~ section #content-4{{ index2 }} {
+  opacity: 1;
+  visibility: visible;
+}
+#tab-1{{ index2 }}:checked + label {
+  color: deepskyblue;
+}
+#tab-3{{ index2 }}:checked + label {
+  color: #ffadfa;
+  color: #ffaa75;
+}
+#tab-4{{ index2 }}:checked + label {
+  color: #ffadfa;
+}
+#tab-1{{ index2 }}:checked ~ .glider {
+  left: 3%;
+}
+
+#tab-2{{ index2 }}:checked ~ .glider {
+  left: 25.5%;
+}
+#tab-3{{ index2 }}:checked ~ .glider {
+  background: linear-gradient(
+    90deg,
+    #faffcc 0%,
+    #f5eea3 10%,
+    #ffe48a 40%,
+    #ffb54d 65%,
+    #ff974d 85%,
+    #ff8052 100%
+  );
+  left: 48%;
+  box-shadow: 0px 0px 8px 0px hsl(17.72deg 100% 70% / 70%);
+}
+
+
+</style>
+{% endfor %}
+
+
+
+{% endblock %}

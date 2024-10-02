@@ -1,0 +1,1546 @@
+[
+  {
+      "id": "CA 3157460",
+      "title": "METHOD AND APPARATUS FOR AUTONOMOUS INDOOR FARMING",
+      "code": "WO2021/097368",
+      "publication_date": "2021-05-20",
+      "application_date": "2019-11-13",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3157460/summary.html",
+      "applicants": "80 ACRES URBAN AGRICULTURE INC.(United States of America)",
+      "inventors": [
+          "ZELKIND, MICHAEL(United States of America)",
+          "LIVINGSTON, PATRICIA(United States of America)",
+          "CANIPE, TRACY ALAN(United States of America)",
+          "PORTELLO, JOSEPH MICHAEL(United States of America)"
+      ],
+      "abstract": "An autonomous farming system includes a computing device that is configured to obtain plant characteristic data that characterizes one or more plant characteristics of a plant growing in at least one growing module. The computing device is further configured to determine at least one growing deficiency of the plant based on the plant characteristic data using a farming engine and to send at least one farming action to a farming controller operatively coupled to the at least one growing module. The at least one farming action includes a remedial action to improve growing conditions of the plant."
+  },
+  {
+      "id": "CA 3088130",
+      "title": "COMPLEX LIVING INTERFACE-COORDINATED SELF-ASSEMBLING MATERIALS (CLICSAM)",
+      "code": "WO2019/148143",
+      "publication_date": "2019-08-01",
+      "application_date": "2018-01-26",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3088130/summary.html",
+      "applicants": "POLARITYTE, INC.(United States of America)",
+      "inventors": [
+          "LOUGH, DENVER(United States of America)",
+          "SOPKO, NIKOLAI(United States of America)",
+          "LABROO, PRATIMA(United States of America)",
+          "BAETZ, NICHOLAS(United States of America)"
+      ],
+      "abstract": "Disclosed herein is a composition comprising a stimulated heterogeneous mammalian tissue interface cell aggregate that is capable of producing functional polarized tissue when administered to a subject in need thereof."
+  },
+  {
+      "id": "CA 2924375",
+      "title": "SYSTEMS AND METHODS FOR ACTIVELY COMPOSING CONTENT FOR USE IN CONTINUOUS SOCIAL COMMUNICATION",
+      "code": "WO2015/039222",
+      "publication_date": "2015-03-26",
+      "application_date": "2013-09-19",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2924375/summary.html",
+      "applicants": "SYSOMOS L.P.(Canada)",
+      "inventors": "OGAWA, STUART(United States of America)",
+      "abstract": "A system and method are provided for analysing and communicating social data. A method performed by a computing device or server system includes obtaining social data and deriving at least two concepts from the social data. A relationship between the at least two concepts is determined. The method also includes composing a new social data object using the relationship and transmitting the new social data object. User feedback associated with new social data object is obtained, and the computing device or server system computes an adjustment command using the user feedback. Executing the adjustment command adjusts a parameter used in the method. After the adjustment command is executed, the method is repeated."
+  },
+  {
+      "id": "CA 3219256",
+      "title": "FUNGICIDAL COMPOSITION CONTAINING OXADIAZOLE COMPOUNDS",
+      "code": "WO2022/249074",
+      "publication_date": "2022-12-01",
+      "application_date": "2021-05-26",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3219256/summary.html",
+      "applicants": "PI INDUSTRIES LTD.(India)",
+      "inventors": [
+          "BHUJADE, PARAS RAYBHAN(India)",
+          "NAIK, MARUTI N(India)",
+          "AUTKAR, SANTOSH SHRIDHAR(India)",
+          "KLAUSENER, ALEXANDER G.M.(Germany)"
+      ],
+      "abstract": "The present invention discloses a novel fungicidal composition comprising at least one compound of formula (I) or an agriculturally acceptable salt thereof as a component (1), Formula (I) wherein, R, A, L1, R1, and n are as defined in the detailed description and at least one further active compound as a component (2). The present invention further discloses a method for controlling or preventing infestation of plants by phytopathogenic microorganisms and use of the fungicidal composition according to invention for the treatment of seed."
+  },
+  {
+      "id": "CA 3079383",
+      "title": "FERTILE OVUM QUALITY EVALUATION METHOD, FERTILE OVUM QUALITY EVALUATION SYSTEM, PROGRAM, AND INFORMATION PROCESSING APPARATUS",
+      "code": "WO2019/082713",
+      "publication_date": "2019-05-02",
+      "application_date": "2017-10-26",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3079383/summary.html",
+      "applicants": "SONY CORPORATION(Japan)",
+      "inventors": [
+          "IWATA, MINA(Japan)",
+          "SHINODA, MASATAKA(Japan)"
+      ],
+      "abstract": "There is provided a computer system for evaluating the quality of a fertile ovum. The computer system includes computer processing circuitry configured to receive a plurality of images of a fertile ovum captured in time-series by an imaging apparatus, provide as input to at least one learned model, the plurality of images of the fertile ovum or information based on the plurality of images of the fertile ovum, wherein the at least one learned model has been trained to output, based at least in part, on the plurality of images, fertile ovum analysis information describing characteristics of the fertile ovum used to evaluate a quality of fertile ovum, and provide evaluation support information based, at least in part, on the fertile ovum analysis information, wherein the evaluation support information enables a quality evaluator to interact with the web dashboard to modify at least some of the evaluation support information."
+  },
+  {
+      "id": "CA 3208890",
+      "title": "DISTRIBUTED FIBER-OPTIC SENSING SYSTEMS, DEVICES, AND METHODS",
+      "code": "WO2022/178281",
+      "publication_date": "2022-08-25",
+      "application_date": "2021-02-19",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3208890/summary.html",
+      "applicants": "FIBER SENSE LIMITED(Australia)",
+      "inventors": "LINDSEY, NATHANIEL J.(United States of America)",
+      "abstract": "A distributed fiber optic sensing (DFOS) system and method record optical data in one or more optical fibers, calculate physical parameters from the recorded optical data, and compute locations of vehicles passing above or beside the one or more optical fibers based on the DFOS data. A method of determining a force exerted by an object onto a surface under the object using at least one optical fiber located below or adjacent to the surface includes measuring DFOS data arising from strain in the at least one optical fiber responsive to the force, determining at least one relationship between the measured DFOS data and the force and processing the measured DFOS data and the at least one relationship to determine the force."
+  },
+  {
+      "id": "CA 3204094",
+      "title": "CELL PENETRATING PEPTIDE MEDIATED RNA TRANSDUCTION WITHIN INSECT CELLS",
+      "code": "WO2022/132520",
+      "publication_date": "2022-06-23",
+      "application_date": "2020-12-16",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3204094/summary.html",
+      "applicants": "PIONEER HI-BRED INTERNATIONAL, INC.(United States of America)",
+      "inventors": [
+          "DAVIS-VOGEL, COURTNEY ANNE(United States of America)",
+          "MENDEZ, EDWIN J.(United States of America)",
+          "SAMUEL, JAYAKUMAR PON(United States of America)",
+          "THILGES, KATHERINE A.(United States of America)"
+      ],
+      "abstract": "A method of introducing a molecule of interest into an insect or an insect cell includes interacting a cell-penetrating peptide with a molecule of interest to form a complex. The structure is then placed in contact with an insect or an insect cell and allowing uptake of the complex into the insect or insect cell. Alternatively, an RNA polynucleotide (mRNA, or an RNAi-mediating molecule) can be introduced in an insect or an insect cell by interacting a peptide with the polynucleotide of interest to form a complex, allowing uptake of the RNA complex into the insect or insect cell, and expressing the polynucleotide in the insect or an insect cell."
+  },
+  {
+      "id": "CA 3143179",
+      "title": "TECHNIQUES FOR VOLUMETRIC ESTIMATION",
+      "code": "WO2020/256771",
+      "publication_date": "2020-12-24",
+      "application_date": "2019-06-17",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3143179/summary.html",
+      "applicants": "SAFEAI, INC.(United States of America)",
+      "inventors": [
+          "THEVERAPPERUMA, LALIN(United States of America)",
+          "HALDER, BIBHRAJIT(United States of America)",
+          "BALASUBRAMANIAN, KOUSHIK(India)"
+      ],
+      "abstract": "The present disclosure relates generally to the operation of autonomous machinery for performing various tasks at various industrial work sites, and more particularly to the volumetric estimation and dimensional estimation of a pile of material or other object, and the use of multiple sensors for the volumetric estimation and dimensional estimation of a pile of material or other object at such work sites. An application and a framework is disclosed for volumetric estimation and dimensional estimation of a pile of material or other object using at least one sensor, preferably a plurality of sensors, on an autonomous machine (e.g., robotic machines or autonomous vehicles) in various work-site environments applicable to various industries such as, construction, mining, manufacturing, warehousing, logistics, sorting, packaging, agriculture, etc."
+  },
+  {
+      "id": "CA 3131229",
+      "title": "SYSTEM FOR THE RELEASE OF BIOLOGICAL AGENTS IN THE BIOLOGICAL CONTROL OF PESTS",
+      "code": "WO2020/172731",
+      "publication_date": "2020-09-03",
+      "application_date": "2019-02-25",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3131229/summary.html",
+      "applicants": "NCB SISTEMAS EMBARCADOS EIRELI - EPP(Brazil)",
+      "inventors": "NICODEMOS, FERNANDO GARCIA(Brazil)",
+      "abstract": "A multi-purpose on-board system for automating the process of releasing different biological precision pest control materials using, but not limited to, unmanned aerial vehicles (or drones). The system comprises multi-purpose high-performance electronic equipment (hardware), a dedicated or shared GPS/GLONASS/GALILEO in the aircraft and four different dedicated electromechanical release assemblies, specifically: a loose parasitic egg release assembly (BioBOT), a loose mass release assembly (BioCOTe), a live material (mite) release assembly (BioMITe), and a powdered beneficial fungus release assembly (BioFUNgus). The system enables full compliance throughout the biological control chain, including production, monitoring, integrated digital planning, controlled precision release and generation of reliable reports."
+  },
+  {
+      "id": "CA 3081837",
+      "title": "AGRICULTURAL WEAR MONITORING SYSTEM",
+      "code": "Missing International Code",
+      "publication_date": "2020-12-11",
+      "application_date": "2019-06-11",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3081837/summary.html",
+      "applicants": "CNH INDUSTRIAL CANADA, LTD.(Canada)",
+      "inventors": [
+          "NAYLOR, MATTHEW STUART(Canada)",
+          "STUART, GRAHAM DOUGLAS(Canada)"
+      ],
+      "abstract": "Missing Abstract"
+  },
+  {
+      "id": "CA 2394483",
+      "title": "GLOBAL ASSET INFORMATION REGISTRY",
+      "code": "WO2001/044966",
+      "publication_date": "2001-06-21",
+      "application_date": "1999-12-17",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2394483/summary.html",
+      "applicants": "TECHNOLOGY, PATENTS AND LICENSING, INC.(United States of America)",
+      "inventors": [
+          "DEWOLF, FREDERIK M.(United States of America)",
+          "LUTTER, STEVEN(United States of America)",
+          "FLICKINGER, GREGORY C.(United States of America)",
+          "ELDERING, CHARLES A.(United States of America)"
+      ],
+      "abstract": "Recording information related to an asset in an asset registry (200)throughout the life cycle of the asset. Categorizing the information intomultiple attributes. Managing read and write privileges to the asset registry(200) for various entities having an interest in the asset. Providing accessto the attributes to the various entities that have an interest in the asset.Entities having write privileges can write information to the asset registry(200), and entities having read privileges can read information from the assetregistry (200)."
+  },
+  {
+      "id": "CA 2834678",
+      "title": "PLANTS HAVING ONE OR MORE ENHANCED YIELD-RELATED TRAITS AND METHOD FOR MAKING THE SAME",
+      "code": "WO2012/156865",
+      "publication_date": "2012-11-22",
+      "application_date": "2011-05-17",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2834678/summary.html",
+      "applicants": "BASF PLANT SCIENCE COMPANY GMBH(Germany)",
+      "inventors": "REUZEAU, CHRISTOPHE(France)",
+      "abstract": "Provided is a method for enhancing yield-related traits in plants by modulating expression of a nucleic acid encoding a PtMYB12L polypeptide in a plant. Also provided are plants having modulated expression of a nucleic acid encoding a PtMYB12L polypeptide, which plants have enhanced yield-related traits compared with control plants. Also provided are PtMYB12L-encoding nucleic acids, and constructs comprising the same, useful in enhancing yield-related traits in plants."
+  },
+  {
+      "id": "CA 2703827",
+      "title": "PLANTS HAVING ENHANCED YIELD-RELATED TRAITS AND A METHOD FOR MAKING THE SAME",
+      "code": "WO2009/056566",
+      "publication_date": "2009-05-07",
+      "application_date": "2007-10-29",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2703827/summary.html",
+      "applicants": "BASF PLANT SCIENCE GMBH(Germany)",
+      "inventors": [
+          "REUZEAU, CHRISTOPHE(France)",
+          "SANZ MOLINERO, ANA ISABEL(Belgium)"
+      ],
+      "abstract": "The present invention relates generally tothe held of molecular biology and concerns a method forenhancing various economically important yield-relatedtraits in plants. More specifically, the present inventionconcerns a method for enhancing yield-related traits inplants by modulating expression in a plant of a nucleic acidencoding a DOF-C2 (DNA-binding with one finger, subgroupC2) domain transcription factor polypeptide or a MYB7polypeptide. The present invention also concerns plantshaving modulated expression of a nucleic acid encodingan a DOF-C2 domain transcription factor polypeptide or aMYB7 polypeptide, which plants have enhanced yield-relatedtraits relative to control plants. The invention also providesconstructs comprising the DOF-C2 domain transcriptionfactor polypeptide or the MYB7 polypeptide, useful inperforming the methods of the invention."
+  },
+  {
+      "id": "CA 3150808",
+      "title": "QUANTIFYING OBJECTS ON PLANTS BY ESTIMATING THE NUMBER OF OBJECTS ON PLANT PARTS SUCH AS LEAVES, BY CONVOLUTIONAL NEURAL NETWORKS THAT PROVIDE DENSITY MAPS",
+      "code": "WO2021/063929",
+      "publication_date": "2021-04-08",
+      "application_date": "2019-09-30",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3150808/summary.html",
+      "applicants": "BASF SE(Germany)",
+      "inventors": [
+          "ALVAREZ GILA, AITOR(Spain)",
+          "ORTIZ BARREDO, AMAIA MARIA(Spain)",
+          "ROLDAN LOPEZ, DAVID(Spain)",
+          "ROMERO RODRIGUEZ, JAVIER(Spain)",
+          "SPANGLER, CORINNA MARIA(Germany)",
+          "KLUKAS, CHRISTIAN(Germany)",
+          "EGGERS, TILL(Germany)",
+          "ECHAZARRA HUGUET, JONE(Spain)",
+          "NAVARRA MESTRE, RAMON(Germany)",
+          "PICON RUIZ, ARTZAI(Spain)",
+          "BERECIARTUA PEREZ, ARANZAZU(Spain)"
+      ],
+      "abstract": "Quantifying plant infestation is performed by estimating the number of biological objects (132) on parts (122) of a plant (112). A computer (202) receives a plant-image (412) taken from a particular plant (112). The computer (202) uses a first convolutional neural network (262/272) to derive a part-image (422) that shows a part of the plant. The computer (202) splits the part-image into tiles and uses a second network to process the tiles to density maps. The computer (202) combines the density maps to a combined density map in the dimension of the part-image and integrates the pixel values to an estimate number of objects for the part. Object classes (132(1), 132(2)) can be differentiated to fine-tune the quantification to identify class-specific countermeasures."
+  },
+  {
+      "id": "CA 3128583",
+      "title": "SYSTEM AND METHOD FOR WATER PURIFICATION",
+      "code": "Missing International Code",
+      "publication_date": "2022-02-20",
+      "application_date": "2020-08-20",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3128583/summary.html",
+      "applicants": "DAVIDSON, LEON JOHN, JR.(United States of America)",
+      "inventors": "DAVIDSON, LEON JOHN, JR.(United States of America)",
+      "abstract": "The present invention is a water purification system and method including atreatmenttank with a water inlet, a chlorine source, and a heating element; at leastone storage tank with atleast one treated water outlet between the treatment tank and the storagetank(s) through whichtreated water passes therebetween, and a final water outlet(s) through whichtreated water leavesthe system for the benefit of the end user. A power source powers all elementsthat requirepower, such as the heating element."
+  },
+  {
+      "id": "CA 3149211",
+      "title": "METHOD AND APPARATUS USING MACHINE LEARNING FOR EVOLUTIONARY DATA-DRIVEN DESIGN OF PROTEINS AND OTHER SEQUENCE DEFINED BIOMOLECULES",
+      "code": "WO2021/050923",
+      "publication_date": "2021-03-18",
+      "application_date": "2019-09-13",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3149211/summary.html",
+      "applicants": "THE UNIVERSITY OF CHICAGO(United States of America)",
+      "inventors": [
+          "RANGANATHAN, RAMA(United States of America)",
+          "FERGUSON, ANDREW(United States of America)"
+      ],
+      "abstract": "A method and apparatus are provided for designing sequence-defined biomolecules, such as proteins using a data-driven, evolution-based process. To design proteins, an iterative method founded on a combination of an unsupervised sequence-based model with a supervised functionality-based model can select candidate amino acid sequences that are likely to have a desired functionality. Feedback from measuring the candidate proteins using a high-throughput gene-synthesis and a protein screening process is used to refine and improve the models guiding the candidate selection to the most promising regions of the very large amino acid sequence search space."
+  },
+  {
+      "id": "CA 3064465",
+      "title": "TRANSITIONAL LIGHTING FOR ENTRAINING BIOLOGICAL RHYTHMS",
+      "code": "WO2019/023800",
+      "publication_date": "2019-02-07",
+      "application_date": "2017-08-02",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3064465/summary.html",
+      "applicants": "SUNTRACKER TECHNOLOGIES LTD.(Canada)",
+      "inventors": [
+          "ASHDOWN, IAN EDWARD(Canada)",
+          "SCOTT, WALLACE JAY(Canada)"
+      ],
+      "abstract": "A biological lighting system to provide temporally- and spatially-modulated photon flux output and spectral power distributions to plants on a circadian and circannual basis, or circadian and life cycle basis, to maximize effective and efficient growth in a horticultural setting. The photon flux or irradiance output and the spectral power distribution are modulated to match circadian and circannual rhythms, with individual or multiple luminaires controlled through one or more controllers. Different lighting spectra can be employed depending on the direction of illumination. The photon flux or irradiance output and the spectral power distribution may be set as best suited for any particular plant species, and the system is also useful for raising animals."
+  },
+  {
+      "id": "CA 3091394",
+      "title": "RUMINAL BOLUS FOR TRACKING BOVINES",
+      "code": "WO2019/161397",
+      "publication_date": "2019-08-22",
+      "application_date": "2018-02-19",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3091394/summary.html",
+      "applicants": "MOVMENT LLC(United States of America)",
+      "inventors": [
+          "MAGAZZU, GIUSEPPE(Italy)",
+          "PRESTI, DARIO(Italy)",
+          "BENEDETTO, ROSA(Italy)",
+          "BLAND, RAMSEY(United States of America)",
+          "HOCH, MARTIN(United States of America)"
+      ],
+      "abstract": "A bolus is inserted into the rumen of a bovine and includes sensors for collecting the temperature, activity level, and location of the animal over time and circuitry for communicating the collected data to a server that monitors the health, kinetic activity, and location of that animal and perhaps other animals in a herd. The battery of the bolus is continuously recharged in response to the peristaltic contractions of the rumen. The bolus communicates via a local network transmission technology such as Bluetooth to a radio transmitter mounted on the tail of the animal using a tail-mounted bracelet. This transmitter may then communicate the collected data and additional sensor data to the server. Thermal cameras mounted near water troughs, in corridors to milking rooms, or on drones may be used to supplement the data collected by the bolus to provide data indicative of the health condition of the animal."
+  },
+  {
+      "id": "CA 3142272",
+      "title": "PREBIOTIC FORMULATIONS FOR PREVENTION OF SEPSIS AND NECROENTEROCOLITIS INDUCED NEURODEVELOPMENTAL DEFICIENCIES",
+      "code": "WO2020/247536",
+      "publication_date": "2020-12-10",
+      "application_date": "2019-06-03",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3142272/summary.html",
+      "applicants": "RESEARCH INSTITUTE AT NATIONWIDE CHILDREN'S HOSPITAL(United States of America)",
+      "inventors": [
+          "BESNER, GAIL E.(United States of America)",
+          "BAILEY, MICHAEL(United States of America)",
+          "GOODMAN, STEVEN(United States of America)"
+      ],
+      "abstract": "Provided herein are methods and probiotic compositions for treating or preventing a disease or neurodevelopmental deficiency in a subject in need thereof using the compositions. Aspects and embodiments of this technology combine the health benefits of probiotic bacteria with prebiotic substances to help stimulate the exclusive growth of the probiotic species and, in one aspect, provide the bacteria in the form of a biofilm on a biocompatible microsphere."
+  },
+  {
+      "id": "CA 2670096",
+      "title": "BIOFUEL PRODUCTION METHODS AND COMPOSITIONS",
+      "code": "WO2008/064289",
+      "publication_date": "2008-05-29",
+      "application_date": "2006-11-21",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2670096/summary.html",
+      "applicants": "THE SAMUEL ROBERTS NOBLE FOUNDATION, INC.(United States of America)",
+      "inventors": [
+          "DIXON, RICHARD A.(United States of America)",
+          "CHEN, FANG(United States of America)",
+          "WANG, ZENGYU(United States of America)"
+      ],
+      "abstract": "The invention provides methods for increasing the level of fermentable carbohydrates in a biofuel crop plant such as alfalfa or switchgrass, by modification of the lignin biosynthetic pathway. Also provided are plants prepared by the methods of the invention. Methods for processing plant tissue and for producing ethanol by utilizing such plants are also provided."
+  },
+  {
+      "id": "CA 3192475",
+      "title": "SYSTEMS AND METHODS OF URBAN ROOFTOP AGRICULTURE WITH SMART CITY DATA INTEGRATION",
+      "code": "WO2022/060940",
+      "publication_date": "2022-03-24",
+      "application_date": "2020-09-20",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3192475/summary.html",
+      "applicants": "DIRTSAT, INC.(United States of America)",
+      "inventors": "TIBALLI, CHRISTINE(United States of America)",
+      "abstract": "An IoT-enabled network of urban rooftop farms. Systems and methods include receiving image data; processing the image data with an artificial intelligence model; determining, based on the processing of the image data, a set of pixels of the image data meets one or more thresholds; and based on determining the set of pixels meets the one or more thresholds, recording the set of pixels as a viable agriculture space. Systems and methods also include receiving data from one or more sensors, wherein each of the one or more sensors is associated with an agriculture space; generating one or more metrics indicative of farming viability associated with the agriculture space based on the data received form the one or more sensors; and generating a user interface comprising the generated metrics."
+  },
+  {
+      "id": "CA 2391985",
+      "title": "A UNITARY LANGUAGE FOR PROBLEM SOLVING RESOURCES FOR KNOWLEDGE BASED SERVICES",
+      "code": "WO2001/039037",
+      "publication_date": "2001-05-31",
+      "application_date": "1999-11-25",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2391985/summary.html",
+      "applicants": "OON, YEONG KUANG(Australia)",
+      "inventors": "OON, YEONG KUANG(Australia)",
+      "abstract": "A unitary machine parsable language for use in data representation and problemsolving in knowledge based services having a vocabulary of terms which derivefrom a natural human language to facilitate ease of comprehension by humansbased upon a definition of the context of an item of information. A method ofincreasing the effectiveness of a knowledge based service consultationcomprising splitting the consultation into at least a pre-consultation phase,a consultation phase and a post-consultation phase wherein informationcollected during earlier phases is electronically checked during the post-consultation phase."
+  },
+  {
+      "id": "CA 2991318",
+      "title": "SYSTEM FOR TRACKING WASTE OR RECYCLABLE MATERIAL",
+      "code": "WO2017/007913",
+      "publication_date": "2017-01-12",
+      "application_date": "2015-07-08",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2991318/summary.html",
+      "applicants": "DIVERT, INC.(United States of America)",
+      "inventors": [
+          "WHITMAN, NICHOLAS L.(United States of America)",
+          "BEGIN, RYAN R.(United States of America)"
+      ],
+      "abstract": "Systems, methods and devices are provided for tracking and managing waste or recyclable materials, which may include one or more devices enabled to capture and record information about waste material at a point in a distribution chain, as well as information technology systems for collecting, processing, analyzing and otherwise managing information about a large number and variety of streams of waste material."
+  },
+  {
+      "id": "CA 3031206",
+      "title": "FIBRILLIN-1 MUTATIONS FOR MODELING NEONATAL PROGEROID SYNDROME WITH CONGENITAL LIPODYSTROPHY",
+      "code": "WO2018/023014",
+      "publication_date": "2018-02-01",
+      "application_date": "2016-07-29",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3031206/summary.html",
+      "applicants": "REGENERON PHARMACEUTICALS, INC.(United States of America)",
+      "inventors": [
+          "HUNT, CHARLEEN(United States of America)",
+          "MASTAITIS, JASON(United States of America)",
+          "GONG, GUOCHUN(United States of America)",
+          "LAI, KA-MAN VENUS(United States of America)",
+          "GROMADA, JESPER(United States of America)",
+          "ECONOMIDES, ARIS N.(United States of America)"
+      ],
+      "abstract": "Provided are non-human animals comprising a mutation in the Fbnl gene to model neonatal progeroid syndrome with congenital lipodystrophy (NPSCL). Also provided are methods of making such non-human animal models. The non-human animal models can be used for screening compounds for activity in inhibiting or reducing NPSCL or ameliorating NPSCL- like symptoms or screening compounds for activity potentially harmful in promoting or exacerbating NPSCL as well as to provide insights in to the mechanism of NPSCL and potentially new therapeutic and diagnostic targets."
+  },
+  {
+      "id": "CA 3194864",
+      "title": "SYSTEM FOR TRACKING WASTE OR RECYCLABLE MATERIAL",
+      "code": "Missing International Code",
+      "publication_date": "2017-01-12",
+      "application_date": "2015-07-08",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3194864/summary.html",
+      "applicants": "DIVERT, INC.(United States of America)",
+      "inventors": [
+          "WHITMAN, NICHOLAS L.(United States of America)",
+          "BEGIN, RYAN R.(United States of America)"
+      ],
+      "abstract": "Systems, methods and devices are provided for tracking and managing waste orrecyclable materials, which may include one or more devices enabled to captureandrecord information about waste material at a point in a distribution chain, aswell asinformation technology systems for collecting, processing, analyzing andotherwisemanaging information about a large number and variety of streams of wastematerial."
+  },
+  {
+      "id": "CA 2679077",
+      "title": "PLANTS HAVING ENHANCED YIELD-RELATED TRAITS AND A METHOD FOR MAKING THE SAME",
+      "code": "WO2008/104598",
+      "publication_date": "2008-09-04",
+      "application_date": "2007-02-28",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2679077/summary.html",
+      "applicants": [
+          "CROPDESIGN N.V.(Belgium)",
+          "CROP FUNCTIONAL GENOMICS CENTER(Republic of Korea)"
+      ],
+      "inventors": [
+          "CHOI, YANG DO(Republic of Korea)",
+          "PARK, YOUN-IL(Republic of Korea)",
+          "CHUNG, SUCK WON(Republic of Korea)",
+          "HWANG, IN GYU(Republic of Korea)",
+          "OH, JONGHEE(Republic of Korea)"
+      ],
+      "abstract": "The present invention relates generally to the field of molecular biology and concerns a method for enhancing various economically important yield-related traits in plants. More specifically, the present invention concerns a method for enhancing yield-related traits in plants by modulating expression in a plant of a nucleic acid encoding a Harpin-a ssociated Factor G polypeptide (hereinafter termed HpaG\"). The present invention also concerns plants having modulated expression of a nucleic acid encoding an HpaG polypeptide, which plants have enhanced yield-related traits relative to control plants. The invention also provides constructs comprising HpaG-encoding nucleic acids, useful in performing the methodsof the invention. The present invention also provides a method for enhancing yield-related traits in plants relative to control plants, by modulating (preferably increasing) expression in a plant of a nucleic acid sequence encoding a SWITCH 2/ SUCROSE NON-FERMENTING 2 (SWI2/SNF2) polypeptide. The present invention also concerns plants having modulated expression of a nucleic acid sequence encoding a SWI2/SNF2 polypeptide, which plants have enhanced yield-related traits relative to control plants. The invention also provides constructs useful in performing the methods of the invention."
+  },
+  {
+      "id": "CA 3062229",
+      "title": "METHOD OF GROWING PLANTS USING LED LIGHT AND LED LIGHT SYSTEM EMPLOYING SAME",
+      "code": "WO2018/201250",
+      "publication_date": "2018-11-08",
+      "application_date": "2017-05-02",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3062229/summary.html",
+      "applicants": "10644137 CANADA INC.(Canada)",
+      "inventors": [
+          "PAHLEVANINEZHAD, MAJID(Canada)",
+          "SCHERWITZ, SAM(Canada)",
+          "PAHLEVANINEZHAD, HAMID(Canada)"
+      ],
+      "abstract": "A Light-Emitting Diode (LED) system for facilitating the growth of a plant includes at least one LED array having one or more LEDs for emitting colored light spectra absorbable by a plant, a light detector for detecting light reflected from the plant, and a LED light driver electrically coupled to the at least one LED array and the light detector. The LED light driver receives electrical power from a power source and drives the at least one LED array using the received electrical power; receives from the light detector a signal indicative of the reflected light spectra, and controls the at least one LED array to adjust at least one of the intensities and the spectra of the light emitted from the at least one LED array, based on the received signal."
+  },
+  {
+      "id": "CA 3115188",
+      "title": "APPARATUS AND METHOD FOR PROVIDING APPLICATION SERVICE USING SATELLITE IMAGE",
+      "code": "WO2020/226208",
+      "publication_date": "2020-11-12",
+      "application_date": "2019-05-07",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3115188/summary.html",
+      "applicants": "CONTEC CO., LTD.(Republic of Korea)",
+      "inventors": "LEE, SUNGHEE(Republic of Korea)",
+      "abstract": "The present invention relates to an apparatus and method for providing an application service using a satellite image. The apparatus for providing an application service using a satellite image may comprise: a satellite image information acquisition unit for acquiring a satellite image; an object extraction unit which analyzes the satellite image, extracts an object from the satellite image, and generates an object image corresponding to the object; a storage unit for storing the satellite image and the object image; and a service processing unit for processing a service on the basis of at least one of the satellite image and the object image."
+  },
+  {
+      "id": "CA 2119635",
+      "title": "METHOD OF GEOCHEMICAL PROSPECTING",
+      "code": "WO1993/009223",
+      "publication_date": "1993-05-13",
+      "application_date": "1991-11-06",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2119635/summary.html",
+      "applicants": "CLARK, JOHN ROBERT(United States of America)",
+      "inventors": "CLARK, JOHN ROBERT(United States of America)",
+      "abstract": "A method of geochemical prospecting where samples of soil,sediment and rock in a geological area are collected and eachsample is contacted with a leach solution of water, glucose andglucose oxidase. The oxidase acts upon the glucose to producegluconic acid and hydrogen peroxide. The leach solution reactswith manganese dioxide carrying trace metal elements andcompounds in the samples to produce a leach reaction solution.The leach reaction solution and the residue of the said sampleare separated, and the leach reaction solution is analyzed todetermine the trace metal content present. From the analysis, themineral content of the geological area is predicted. The leachsolution may also contain ascorbic acid, catalase, galactoseoxidase and a salt such as water soluble metal cyanides and watersoluble metal halides."
+  },
+  {
+      "id": "CA 2801422",
+      "title": "PLANTS HAVING ENHANCED YIELD-RELATED TRAITS AND METHOD FOR MAKING THE SAME",
+      "code": "WO2011/161617",
+      "publication_date": "2011-12-29",
+      "application_date": "2010-06-24",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2801422/summary.html",
+      "applicants": "BASF PLANT SCIENCE COMPANY GMBH(Germany)",
+      "inventors": [
+          "REUZEAU, CHRISTOPHE(France)",
+          "VANDENABEELE, STEVEN(Belgium)",
+          "FRANKARD, VALERIE(Belgium)"
+      ],
+      "abstract": "The present invention relates generally to the field of molecular biology and to the methods for enhancing various economically important yield-related traits in plants. More specifically, the present invention relates to a method for enhancing yield-related traits in plants by modulating expression of a nucleic acid encoding an OsRSZ33 RRM polypeptide or a growth-related protein (GRP) having at least 25% amino acid sequence identity to SEQ ID NO:251 or a ZPR polypeptide. The present invention also relates to plants having modulated expression of a nucleic acid encoding an OsRSZ33 RRM polypeptide or a growth-related polypeptide as defined herein or a ZPR polypeptide. Such plants have enhanced yield-related traits relative to controls. The invention also provides hitherto unknown OsRSZ33 RRM-encoding nucleic acids or GRP -encoding nucleic acids or a ZPR polypeptide, and constructs comprising the same, which are useful in performing the methods of the invention."
+  },
+  {
+      "id": "CA 3179113",
+      "title": "SELECTION AND MONITORING METHODS FOR XENOTRANSPLANTATION",
+      "code": "WO2021/247858",
+      "publication_date": "2021-12-09",
+      "application_date": "2020-06-03",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3179113/summary.html",
+      "applicants": [
+          "XENOTHERAPEUTICS, INC.(United States of America)",
+          "ALEXIS BIO, INC.(United States of America)"
+      ],
+      "inventors": [
+          "HOLZER, PAUL(United States of America)",
+          "MONROY, RODNEY(United States of America)",
+          "PTITSYN, ANDREY(United States of America)",
+          "CHANG, ELIZABETH(United States of America)",
+          "ADKINS, JON(United States of America)",
+          "BROWN, TRAVIS(United States of America)",
+          "ROGERS, KAITLYN(United States of America)"
+      ],
+      "abstract": "Predictive engineering of a sample derived from a genetically optimized non-human donor suitable for xenotransplantation into a human having improved quality or performance is described. A training data set is constructed from a series of libraries, including at least one library comprising genomic, proteomic, and research data specific to non-humans. A predictive machine learning model is developed based on the constructed training data set and utilized to obtain a predicted quality or performance of a plurality of sequences for a candidate sample from the non-human donor specific to a human patient or patient population. A subset of sequences is selected for evaluation from the plurality of sequences based on the predicted quality or performance and candidate samples are designed derived from the non-human donor using the selected subset of sequences."
+  },
+  {
+      "id": "CA 3109704",
+      "title": "MOBILE ANALYSIS AND PROCESSING DEVICE",
+      "code": "WO2020/039046",
+      "publication_date": "2020-02-27",
+      "application_date": "2018-08-24",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3109704/summary.html",
+      "applicants": "NAITURE GMBH & CO. KG(Germany)",
+      "inventors": [
+          "HUSSMANN, STEPHAN(Germany)",
+          "KNOLL, FLORIAN JOHANNES(Germany)",
+          "CZYMMEK, VITALI(Germany)"
+      ],
+      "abstract": "The invention relates to a mobile analysis and processing device (14) for agriculture for processing the soil and/or manipulating flora and fauna. The device (14) comprises at least one sensor (62), a tool unit (52) having at least one motor-driven tool (58), an actuator (48) for moving at least the tool (58) of the tool unit (52), a motor (50) for driving the tool (58) and/or the actuator (48), a database (78), a first communication unit (60) having an interface (70a), and a first computer (46) for controlling the sensor (62), the tool unit (52) and the actuator (48) by means of generated control commands. The data captured by means of the sensor (62) are continually compared with the data stored in the database (78) in order to generate corresponding control signals for the actuator (48), the tool unit (52) and/or the motor (50). By means of said device, mobility and flexibility are created, in accordance with which flexibility the device (14) forms a unit by means of which all data can be processed in real time, control signals can be generated for the actuator (48), the tool unit (52) and/or the motor (50) and immediate operation in accordance with the control signals is possible. Thus, combination with, for example, different carriers (12), which move the device (14) over the field if necessary, is possible."
+  },
+  {
+      "id": "CA 3147858",
+      "title": "5-AMINO SUBSTITUTED PYRAZOLES AND TRIAZOLES AS PEST CONTROL AGENTS",
+      "code": "WO2021/013721",
+      "publication_date": "2021-01-28",
+      "application_date": "2019-07-22",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3147858/summary.html",
+      "applicants": "BAYER AKTIENGESELLSCHAFT(Germany)",
+      "inventors": [
+          "HEIL, MARKUS(Germany)",
+          "VELTEN, ROBERT(Germany)",
+          "CEREZO-GALVEZ, SILVIA(Germany)",
+          "WILCKE, DAVID(Germany)",
+          "LINKA, MARC(Germany)",
+          "ILG, KERSTIN(Germany)",
+          "HELLWEGE, ELKE(Germany)",
+          "GORGENS, ULRICH(Germany)",
+          "LOSEL, PETER(Germany)",
+          "WINTER, PHILIPP(Germany)",
+          "TURBERG, ANDREAS(Germany)"
+      ],
+      "abstract": "The invention relates to novel compounds of formula (I), where Ar represents phenyl or a 5- or 6-membered heteroaromatic ring and A, R1 and R2 are defined as aforementioned, and also relates to the use of said compounds for controlling animal pests, in particular arthropods and especially insects, arachnids and nematodes."
+  },
+  {
+      "id": "CA 2957074",
+      "title": "METHOD FOR DETERMINING AND ANALYZING IMPACT SEVERITY OF EVENT ON A NETWORK",
+      "code": "WO2016/025905",
+      "publication_date": "2016-02-18",
+      "application_date": "2014-08-15",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2957074/summary.html",
+      "applicants": "ELEMENTUM SCM (CAYMAN) LTD.(United States of America)",
+      "inventors": [
+          "JONES, ROBERT GLENN(United States of America)",
+          "MARTIN, DANA BURROWS(United States of America)",
+          "LIN, XIAO YING(United States of America)"
+      ],
+      "abstract": "A microprocessor executable impact assessment analyzer is programmed to determine and provide, via digital computer communications, and for an event impacting a selected supply and/or logistics chain, data indicating a significance of an impact of the event on a selected object in the selected supply and/or logistics chain."
+  },
+  {
+      "id": "CA 2940766",
+      "title": "SYSTEMS, METHODS AND ARTICLES FOR ENHANCING WELLNESS ASSOCIATED WITH HABITABLE ENVIRONMENTS",
+      "code": "WO2015/130786",
+      "publication_date": "2015-09-03",
+      "application_date": "2014-02-28",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2940766/summary.html",
+      "applicants": "DELOS LIVING LLC(United States of America)",
+      "inventors": [
+          "PILLAI, DANA S.(United States of America)",
+          "STODOLA, NATHAN B.(United States of America)",
+          "MACARY, RICHARD A.(United States of America)",
+          "GRANGER, TREVOR S.(United States of America)",
+          "STEWART, SHAUN B.(United States of America)"
+      ],
+      "abstract": "Environmental characteristics of habitable environments (e.g., hotel or motel rooms, spas, resorts, cruise boat cabins, offices, hospitals and/or homes, apartments or residences) are controlled to eliminate, reduce or ameliorate adverse or harmful aspects and introduce, increase or enhance beneficial aspects in order to improve a \"wellness\" or sense of \"wellbeing\" provided via the environments. Control of intensity and wavelength distribution of passive and active Illumination addresses various issues, symptoms or syndromes, for instance to maintain a circadian rhythm or cycle, adjust for \"jet lag\" or season affective disorder, etc.. Air quality and attributes are controlled. Scent(s) may be dispersed. Noise is reduced and sounds (e.g., masking, music, natural) may be provided. Environmental and biometric feedback is provided. Experimentation and machine learning are used to improve health outcomes and wellness standards."
+  },
+  {
+      "id": "CA 3029488",
+      "title": "APPARATUS AND METHOD FOR CLASSIFYING A TOBACCO SAMPLE INTO ONE OF A PREDEFINED SET OF TASTE CATEGORIES",
+      "code": "WO2018/007789",
+      "publication_date": "2018-01-11",
+      "application_date": "2016-07-04",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3029488/summary.html",
+      "applicants": "BRITISH AMERICAN TOBACCO (INVESTMENTS) LIMITED(United Kingdom)",
+      "inventors": [
+          "FRANCISCO SWENSON PONTES, OSCAR(Brazil)",
+          "POST SABIN, GUILHERME(Brazil)",
+          "ROBERTO PEREIRA DA SILVA, JOSE(Brazil)",
+          "CARDOSO DIAS, JAILSON(Brazil)",
+          "KAISER, SAMUEL(Brazil)"
+      ],
+      "abstract": "A method and apparatus are provided for classifying a tobacco sample of a particular tobacco type into one of a predefined set of taste categories for that tobacco type. The method comprises acquiring mass spectrometry data from the tobacco sample; identifying from the acquired mass spectrometry data a plurality of chemical components and their respective content levels within the tobacco sample; and assigning the tobacco sample to one of the predefined set of taste categories for that tobacco type based on the plurality of chemical components and their respective content levels identified within the tobacco sample, using a statistical multivariate regression model that represents a relationship between the chemical components and the taste categories."
+  },
+  {
+      "id": "CA 3051097",
+      "title": "FARMING MANAGEMENT SYSTEM",
+      "code": "WO2018/136008",
+      "publication_date": "2018-07-26",
+      "application_date": "2017-01-20",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3051097/summary.html",
+      "applicants": "GREENPHYTO PTE. LTD.(Singapore)",
+      "inventors": "CHONG, SUK SHIEN(Singapore)",
+      "abstract": "The present invention relates to an indoor farming management system comprising at least one sensor; a central processing unit arranged in signal communication with the at least one sensor; a device adapted to operate between an operative state and a non-operative state; the central processing unit is operable to control at least one indoor environmental parameter of a farming system based on data received from the sensor; the central processing unit further operable to send a control signal to the device to operate the device between the operative state and the non-operative state."
+  },
+  {
+      "id": "CA 3231287",
+      "title": "SYSTEMS AND METHODS OF TRACKING FARM VEHICLE PERFORMANCE",
+      "code": "WO2023/042077",
+      "publication_date": "2023-03-23",
+      "application_date": "2021-09-14",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3231287/summary.html",
+      "applicants": "INTELLICULTURE INC.(Canada)",
+      "inventors": [
+          "DIGIOACCHINO, PATRICK(Canada)",
+          "SHAIKHI, RAMIN(Canada)",
+          "POWERS, COLE(Canada)",
+          "WU, WENHAO(Canada)",
+          "HERNANDEZ, DAVID(Canada)",
+          "PISTEK, URBAN(Canada)"
+      ],
+      "abstract": "Tracking farm vehicle performance is provided. A system receives a data file comprising geospatial coordinates for a geographic area. The system identifies rows in the geographic area to associate with the geospatial coordinates. The system receives, from a sensor of a vehicle located in the geographic area, a first location point. The system determines, based on a comparison of the first location point and the geospatial coordinates associated with the rows, scores corresponding to a likelihood that the first location point is in each of the rows. The system provides an indication that the vehicle performed an activity on at least a portion of a first row of in the geographic area based on the scores."
+  },
+  {
+      "id": "CA 3140900",
+      "title": "SEQUENCING BY EMERGENCE",
+      "code": "WO2020/243187",
+      "publication_date": "2020-12-03",
+      "application_date": "2019-05-29",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3140900/summary.html",
+      "applicants": "XGENOMES CORP.(United States of America)",
+      "inventors": "MIR, KALIM(United States of America)",
+      "abstract": "The invention is a method of sequencing polymers in which the sequence of one or more polymers is determined through an emergent property of the binding interactions of a repertoire of molecular probes to the polymer(s)."
+  },
+  {
+      "id": "CA 2528012",
+      "title": "METHODS AND COMPOSITIONS FOR CONTROLLING EFFICACY OF RNA SILENCING",
+      "code": "WO2004/111191",
+      "publication_date": "2004-12-23",
+      "application_date": "2003-06-02",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2528012/summary.html",
+      "applicants": "UNIVERSITY OF MASSACHUSETTS(United States of America)",
+      "inventors": [
+          "ZAMORE, PHILLIP D.(United States of America)",
+          "TANG, GUILIANG(United States of America)"
+      ],
+      "abstract": "Described here is a method of making an RNAi agent with enhanced efficacy, theRNAi agentincludes an antisense strand that is complementary to a target mRNA. Themethod includessubstituting at least one nucleotide within 5 or fewer nucleotides from the 3'end or the 5' endof the antisense strand of the RNAi agent with a nucleotide which forms a G:Uwobble basepair with the corresponding nucleotide in a target mRNA, such that efficacy isenhanced. Alsodescribed is a method of, and corresponding use of the RNAi agent for,silencing targetmRNA. Compositions comprising the RNAi agent are also described."
+  },
+  {
+      "id": "CA 3051939",
+      "title": "GENETICALLY MODIFIED YEAST WITH INCREASED ALCOHOL DEHYDROGENASE ACTIVITY FOR PREPARING A FATTY DICARBOXYLIC ACID",
+      "code": "Missing International Code",
+      "publication_date": "2013-01-10",
+      "application_date": "2011-07-06",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3051939/summary.html",
+      "applicants": "VERDEZYNE, INC.(United States of America)",
+      "inventors": [
+          "BEARDSLEE, TOM(United States of America)",
+          "PICATAGGIO, STEPHEN(United States of America)",
+          "EIRICH, E. DUDLEY(United States of America)",
+          "LAPLAZA, JOSE MIGUEL(United States of America)"
+      ],
+      "abstract": "This disclosure pertains to a genetically modified yeast, comprising: one or more genetic modifications that block beta oxidation activity; and one or more genetic modifications that increase one or more fatty aldehyde dehydrogenase activities, wherein the one or more genetic modification(s) are chosen from an increase in HFD1 fatty aldehyde dehydrogenase activity or HFD2 fatty aldehyde dehydrogenase activity."
+  },
+  {
+      "id": "CA 3195067",
+      "title": "VISION SYSTEM",
+      "code": "WO2022/090852",
+      "publication_date": "2022-05-05",
+      "application_date": "2020-10-26",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3195067/summary.html",
+      "applicants": "PRECISION PLANTING LLC(United States of America)",
+      "inventors": [
+          "WILDERMOUTH, PAUL(United States of America)",
+          "STOLLER, JASON(United States of America)"
+      ],
+      "abstract": "A system having a boom; an arm attached to the boom; and a camera connected to the arm; wherein at least one of i) a distance between the boom and the camera is adjustable, ii), an angle between the arm and the boom is adjustable, and iii) the camera is rotatably connected to the arm."
+  },
+  {
+      "id": "CA 2403797",
+      "title": "METHOD AND SYSTEM FOR BIO-SURVEILLANCE DETECTION AND ALERTING",
+      "code": "WO2001/073616",
+      "publication_date": "2001-10-04",
+      "application_date": "2000-03-23",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2403797/summary.html",
+      "applicants": "THE JOHNS HOPKINS UNIVERSITY(United States of America)",
+      "inventors": [
+          "LOMBARDO, JOSEPH S.(United States of America)",
+          "PINEDA, FERNANDO J.(United States of America)",
+          "BURKOM, HOWARD S.(United States of America)",
+          "NEWHALL, BRUCE K.(United States of America)",
+          "CHOTANI, RASHID A.(United States of America)",
+          "WOJCIK, RICHARD A.(United States of America)",
+          "LOSCHEN, WAYNE A.(United States of America)"
+      ],
+      "abstract": "Background noise from relevant data sets, including for example over-the-counter sales data, absenteeism data, etc., is subtracted using a backgroundestimation algorithm that outputs residual data. The effects of hypotheticalanomalous events, such as a bio-terrorist attack, on the relevant data setsare modeled to create replica data. The replica data may be based on inputfrom epidemiologists and various scenario templates including information ondisease manifestation and other intelligence. The residual data and thereplica data are then matched using a detector. Types of detectors include forexample adaptive matched-filter detectors, change detectors and BayesianInference Networks. An alarm is triggered if a real anomalous event similar toa hypothetical anomalous event is detected. A Geographical Information System(GIS) may be used to display data from individual zip codes."
+  },
+  {
+      "id": "CA 3065851",
+      "title": "METHOD AND APPARATUS FOR MONITORING PLANT HEALTH STATE",
+      "code": "WO2019/034070",
+      "publication_date": "2019-02-21",
+      "application_date": "2017-08-18",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3065851/summary.html",
+      "applicants": "GUANGZHOU XAIRCRAFT TECHNOLOGY CO., LTD.(China)",
+      "inventors": "LIU, BO(China)",
+      "abstract": "A method for monitoring a plant health state, relating to the technical field of intelligent agriculture, for intelligently judging a plant health state and timely prompting farmland management staff to perform prevention and treatment for plants in a poor state of plant health. The method for monitoring a plant health state comprises: carrying out first judgement according to plant health state information; when a judgement result is that there is a risk of poor plant health, carrying out second judgement according to second plant health state information in the orientation where the plants at risk of poor plant health are located, to obtain accurate plant health state information, so that farmland management staff can learn the current state of the plants in farmland timely and prevent and treat same timely. An apparatus applying the method for monitoring plant health state. The apparatus is used for monitoring plant health state."
+  },
+  {
+      "id": "CA 3037565",
+      "title": "INSECTICIDAL PROTEINS FROM PLANTS AND METHODS FOR THEIR USE",
+      "code": "WO2018/075350",
+      "publication_date": "2018-04-26",
+      "application_date": "2016-10-21",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3037565/summary.html",
+      "applicants": "PIONEER HI-BRED INTERNATIONAL, INC.(United States of America)",
+      "inventors": [
+          "BARRY, JENNIFER KARA(United States of America)",
+          "ENGLISH, JAMES J.(United States of America)",
+          "FENGLER, KEVIN A.(United States of America)",
+          "HOU, ZHENGLIN(United States of America)",
+          "LIU, LU(United States of America)",
+          "SCHEPERS, ERIC JUDE(United States of America)",
+          "SOPA, JEFFREY SCOTT(United States of America)",
+          "UDRANSZKY, INGRID(United States of America)"
+      ],
+      "abstract": "Compositions and methods for controlling pests are provided. The methods involve transforming organisms with a nucleic acid sequence encoding an insecticidal protein. In particular, the nucleic acid sequences are useful for preparing plants and microorganisms that possess insecticidal activity. Thus, transformed bacteria, plants, plant cells, plant tissues and seeds are provided. Compositions are insecticidal nucleic acids and proteins of bacterial species. The sequences find use in the construction of expression vectors for subsequent transformation into organisms of interest including plants, as probes for the isolation of other homologous (or partially homologous) genes. The pesticidal proteins find use in controlling, inhibiting growth or killing Lepidopteran, Coleopteran, Dipteran, fungal, Hemipteran and nematode pest populations and for producing compositions with insecticidal activity."
+  },
+  {
+      "id": "CA 2538695",
+      "title": "CLQ RELATED PROTEIN",
+      "code": "WO2005/042576",
+      "publication_date": "2005-05-12",
+      "application_date": "2003-10-27",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2538695/summary.html",
+      "applicants": "ARES TRADING S.A.(Switzerland)",
+      "inventors": [
+          "FITZGERALD, STEPHEN NOEL(United Kingdom)",
+          "FAGAN, RICHARD JOSEPH(United Kingdom)",
+          "POWER, CHRISTINE(France)",
+          "YORKE, MELANIE(Switzerland)",
+          "BIENKOWSKA, JADWIGA(United States of America)"
+      ],
+      "abstract": "This invention relates to the novel protein, termed INSP163, herein identifiedas a secreted protein containing a jelly-roll fold, in particular, as a memberof the TNF (tumor necrosis factor)-like family of cytokines, specifically as aClq-like protein and to the use of this protein and nucleic acid sequence fromthe encoding gene in the diagnosis, prevention and treatment of disease."
+  },
+  {
+      "id": "CA 2397911",
+      "title": "PROTECTED ACCOUNTABLE PRIMARY FOCAL NODE INTERFACE",
+      "code": "WO2001/054044",
+      "publication_date": "2001-07-26",
+      "application_date": "2000-01-19",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2397911/summary.html",
+      "applicants": "KLINE & WALKER, LLC(United States of America)",
+      "inventors": "WALKER, RICHARD C.(United States of America)",
+      "abstract": "This application is the detailed description and construction of the PROTECTEDPRIMARY FOCAL NODE (PFN(200-204)) when it is utilized for secure remote control applications,communication repeating and routing. The invention was l-always designed to remotely control machines, equipment, and vehicles (100-107) through various levels of monitoring and remotecontrol systems and networks. Much of the technology has been designed tomarry up to pre-existing devices and systems to developcost-effective enhancements wherever possible to legacy systems and equipment.The PFN/TRAC System is further developedto integrate and consolidate components and functions through more efficientuniversal configurations of hardware, software andfirmware (software embedded hardware) to provide integrated accountable remotecontrol and management for man and machineinterfacing (HMI) and to include full robotics by employing the latestdevelopments like Systems On a Chip (SOC) Technology. Thesystems and modalities of hardware, software and firmware detailed in thisapplication and related applications that provide account-able trusted remote control or management including traceable communicationsand commands with individual and machine identityand integrity checks are all part of a technology termed the PFN/TRAC System.The PFN/Track System is made up of individualnodes or units that communicate as part of an accountable machine messagingnetwork employing and managing various forms ofcommunication computers and machine controls to aid humanity in the safe useof equipment while protecting the environmentaland the Earth's resources."
+  },
+  {
+      "id": "CA 2728216",
+      "title": "SYSTEM AND METHOD FOR GENERATING COMMODITY FLOW INFORMATION",
+      "code": "WO2009/158445",
+      "publication_date": "2009-12-30",
+      "application_date": "2008-06-27",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2728216/summary.html",
+      "applicants": "GLOBALFLOWS, INC.(United States of America)",
+      "inventors": [
+          "BORGERSON, SCOTT G.(United States of America)",
+          "WEITZ, G. ROCKFORD(United States of America)",
+          "RAYMOND, DOUGLAS A.(United States of America)"
+      ],
+      "abstract": "This invention providesa global strategic picture of commoditymovements generated by trackingships from satellite and othersources and then combining ship locationand movement information withat least one other data set, such as vessel,port, cargo, weather, or marketdata. Ship positions are integrated withother data, such as vessel, port, cargo,weather, and market information, tocreate a global strategic picture ofcommodity flows. A global strategicpicture may then be generated by combining(i) ship movements gathered bysatellite and other sources, with (ii)vessel, port, cargo, weather, market,and other data from existing sources,and (iii) a time history of these datasets."
+  },
+  {
+      "id": "CA 3177372",
+      "title": "DIGITAL TWIN SYSTEMS AND METHODS FOR TRANSPORTATION SYSTEMS",
+      "code": "WO2021/222384",
+      "publication_date": "2021-11-04",
+      "application_date": "2020-04-28",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3177372/summary.html",
+      "applicants": "STRONG FORCE TP PORTFOLIO 2022, LLC(United States of America)",
+      "inventors": [
+          "CELLA, CHARLES HOWARD(United States of America)",
+          "EL-TAHRY, TEYMOUR(United States of America)",
+          "PARENTI, JENNA LYNN(United States of America)",
+          "CARDNO, ANDREW(United States of America)"
+      ],
+      "abstract": "A method for updating one or more properties of one or more transportation system digital twins includes receiving a request to update the one or more transportation system digital twins; retrieving the one or more transportation system digital twins to fulfill the request from a digital twin datastore; and retrieving one or more dynamic models to fulfill the request from a dynamic model datastore. The method further includes selecting data sources from a set of available data sources for one or more inputs for the one or more dynamic models; retrieving data from the selected data sources; running the one or more dynamic models using the retrieved data as input data to determine one or more output values; and updating the one or more properties of the one or more transportation system digital twins based on the one or more output values of the one or more dynamic models."
+  },
+  {
+      "id": "CA 3214192",
+      "title": "MULTI-MODE CONVERTIBLE VEHICLE",
+      "code": "WO2022/213209",
+      "publication_date": "2022-10-13",
+      "application_date": "2021-04-08",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3214192/summary.html",
+      "applicants": "THIUS CANADA INC.(Canada)",
+      "inventors": [
+          "ROCHA, BRUNO(Canada)",
+          "JOSHI, ABHISHEK(Canada)",
+          "IENZI, MAURIZIO(Canada)",
+          "IENZI, CHRISTOFORO(Canada)"
+      ],
+      "abstract": "A convertible multi-mode vehicle capable of motorized travel in the air, on land, on water, and under water. The multi-mode vehicle is capable of controlled aerial flight, movement on the ground in terrestrial environments, on an aquatic surface, as well as underwater by changing between the different modes. Pivoting propulsion motors enable a convertible configuration from one vehicle locomotion mode to another."
+  },
+  {
+      "id": "CA 3049681",
+      "title": "ADAPTIVE CYBER-PHYSICAL SYSTEM FOR EFFICIENT MONITORING OF UNSTRUCTURED ENVIRONMENTS",
+      "code": "WO2018/136875",
+      "publication_date": "2018-07-26",
+      "application_date": "2017-01-23",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3049681/summary.html",
+      "applicants": "THE BOARD OF TRUSTEES OF THE UNIVERSITY OF ILLINOIS(United States of America)",
+      "inventors": [
+          "CHOWDHARY, GIRISH(United States of America)",
+          "SOMAN, CHINMAY P.(United States of America)",
+          "BARBER, BEAU DAVID(United States of America)"
+      ],
+      "abstract": "The present disclosure provides a system for monitoring unstructured environments. A predetermined path can be determined according to an assignment of geolocations to one or more agronomically anomalous target areas, where the one or more agronomically anomalous target areas are determined according to an analysis of a plurality of first images that automatically identifies a target area that deviates from a determination of an average of the plurality of first images that represents an anomalous place within a predetermined area, where the plurality of first images of the predetermined area are captured by a camera during a flight over the predetermined area. A camera of an unmanned vehicle can capture at least one second image of the one or more agronomically anomalous target areas as the unmanned vehicle travels along the predetermined path"
+  },
+  {
+      "id": "CA 3101276",
+      "title": "SYSTEM AND METHOD FOR REAL TIME PREDICTION OF WATER LEVEL AND HAZARD LEVEL OF A DAM",
+      "code": "WO2019/224739",
+      "publication_date": "2019-11-28",
+      "application_date": "2018-05-25",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3101276/summary.html",
+      "applicants": "UNIVERSITY OF JOHANNESBURG(South Africa)",
+      "inventors": [
+          "PAUL, DIPANJAN(India)",
+          "TSHILIDZI, MARWALA(South Africa)",
+          "PAUL, SATYAKAMA(India)"
+      ],
+      "abstract": "The invention relates to a water level prediction system for a dam. The system includes a water level prediction module which is configured to (a) receive time series data, which relates to a water level of the dam, in real-time; and (b) predict, in real-time, a future water level of the dam by processing the received time series data in one or more predictive models/formula(s)/algorithm(s). The one or more predictive models/formula(s)/algorithm(s) may include a recurrent neural network (RNN) or RNN model/algorithm which is configured/trained to predict, in real-time, a future water level of the dam by using the received time series data in the RNN or RNN model/algorithm. The water level prediction module may also include at least one statistical model/algorithm which is configured/trained to predict, in real-time, a future water level of the dam by using the received time series data in the statistical model/algorithm."
+  },
+  {
+      "id": "CA 3177410",
+      "title": "MARKET ORCHESTRATION SYSTEM FOR FACILITATING ELECTRONIC MARKETPLACE TRANSACTIONS",
+      "code": "WO2022/133210",
+      "publication_date": "2022-06-23",
+      "application_date": "2020-12-18",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3177410/summary.html",
+      "applicants": "STRONG FORCE TX PORTFOLIO 2018, LLC(United States of America)",
+      "inventors": [
+          "CELLA, CHARLES HOWARD(United States of America)",
+          "CARDNO, ANDREW(United States of America)",
+          "CHARON, TAYLOR D.(United States of America)",
+          "EL-TAHRY, TEYMOUR S.(United States of America)",
+          "SPITZ, RICHARD A.(United States of America)",
+          "PARENTI, JENNA LYNN(United States of America)",
+          "FORTIN, JR., LEON R.(United States of America)"
+      ],
+      "abstract": "Systems and methods for configuring and launching a marketplace are described. A method may include identifying an opportunity for a new marketplace, receiving marketplace opportunity data, determining configuration parameters, and determining a feasibility of implementing the new marketplace configuration. An architecture of the new marketplace may be determined, and marketplace objects configured. Data resources and their configuration in a model may be determined and the data resources connected to marketplace objects. The new marketplace may then be launched."
+  },
+  {
+      "id": "CA 3001979",
+      "title": "PLANTS HAVING INCREASED TOLERANCE TO HERBICIDES",
+      "code": "WO2017/068544",
+      "publication_date": "2017-04-27",
+      "application_date": "2015-10-22",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3001979/summary.html",
+      "applicants": "BASF SE(Germany)",
+      "inventors": [
+          "TRESCH, STEFAN(Germany)",
+          "SISAY, MIHIRET TEKESTE(Germany)",
+          "SCHACHTSCHABEL, DOREEN(Germany)",
+          "HANZLIK, KRISTIN(Germany)",
+          "WESTON, BRIGITTE J(Germany)",
+          "VOGT, FLORIAN(Germany)",
+          "GEERDINK, DANNY(Germany)",
+          "LERCHL, JENS(Germany)"
+      ],
+      "abstract": "Provided is a plant or plant part comprising a polynucleotide encoding a wild type or mutated cellulose synthase (CESA) polypeptide, the expression of the polynucleotide confers to the plant or plant part tolerance to CESA-inhibiting herbicides, such an azines."
+  },
+  {
+      "id": "CA 2841782",
+      "title": "METHODS OF INCREASING YIELD AND STRESS TOLERANCE IN A PLANT",
+      "code": "WO2013/012788",
+      "publication_date": "2013-01-24",
+      "application_date": "2011-07-15",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2841782/summary.html",
+      "applicants": "SYNGENTA PARTICIPATIONS AG(Switzerland)",
+      "inventors": [
+          "BASU, SHIB(United States of America)",
+          "COHN, JONATHAN(United States of America)",
+          "NUCCIO, MICHAEL(United States of America)"
+      ],
+      "abstract": "The present invention relates generally to the field of molecular biology and regards various polynucleotides, polypeptides and methods that may be employed to enhance yield in transgenic plants. Specifically the transgenic plants may exhibit any one of the traits consisting of increased yield, increased tolerance to abiotic stress, increased cell growth and increased nutrient use efficiency."
+  },
+  {
+      "id": "CA 3228474",
+      "title": "EXTENDED REALITY (XR) COLLABORATIVE ENVIRONMENTS",
+      "code": "WO2023/023547",
+      "publication_date": "2023-02-23",
+      "application_date": "2021-08-18",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3228474/summary.html",
+      "applicants": "GEORGIA TECH RESEARCH CORPORATION(United States of America)",
+      "inventors": [
+          "USHER, COLIN(United States of America)",
+          "AHLIN, KONRAD(United States of America)",
+          "DALEY, WAYNE D.(United States of America)",
+          "JOFFE, BENJAMIN(United States of America)"
+      ],
+      "abstract": "An exemplary embodiment of the present disclosure provides an extended reality (XR) system comprising an autonomous robotic device and a user interface. The autonomous robotic device can be located in a physical environment. The user interface can be configured to display an XR environment corresponding to at least a portion of the physical environment and receive an input from the user based on the user's perception in the XR environment. The autonomous robotic device can be configured to perform an autonomous action based at least in part on an input received from the user."
+  },
+  {
+      "id": "CA 2535095",
+      "title": "DIFFERENTIATION AND IDENTIFICATION OF ANALOGOUS CHEMICAL OR BIOLOGICAL SUBSTANCES WITH BIOSENSORS",
+      "code": "Missing International Code",
+      "publication_date": "2006-09-25",
+      "application_date": "2005-03-25",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2535095/summary.html",
+      "applicants": [
+          "HUNT, WILLIAM D.(United States of America)",
+          "STUBBS, DESMOND D.(United States of America)",
+          "LEE, SANG HUN(United States of America)",
+          "P.J. EDMONSON LTD.(Canada)"
+      ],
+      "inventors": [
+          "EDMONSON, PETER J.(Canada)",
+          "HUNT, WILLIAM D.(United States of America)",
+          "STUBBS, DESMOND D.(United States of America)",
+          "LEE, SANG HUN(United States of America)"
+      ],
+      "abstract": "A biosensor detection system for detecting a particular substance has at leasttwobiosensor devices. Each biosensor device includes a piezoelectric material, aninputtransducer mounted on the piezoelectric material to receive an input radiofrequencysignal and propagate a corresponding acoustic wave within the piezoelectricmaterial andan output transducer mounted on the piezoelectric material to receive theacoustic waveand transmit a corresponding output radio frequency signal. A biolayer ismounted onthe piezoelectric material to receive a substance to be tested and cause acorrespondingchange in the acoustic wave. An oscillator circuit is connected to the inputtransducerand to the output transducer, the oscillator circuit including an amplifierand providing anoutput signal indicative of a change in the acoustic wave. The biosensordevices havingtwo different biolayers, whereby the output signals can be utilized to detectreceipt of aparticular substance by the biolayers of the biosensor devices."
+  },
+  {
+      "id": "CA 2875650",
+      "title": "METHODS AND APPARATUS FOR COAXIAL IMAGING OF MULTIPLE WAVELENGTHS",
+      "code": "WO2014/007869",
+      "publication_date": "2014-01-09",
+      "application_date": "2012-06-05",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2875650/summary.html",
+      "applicants": "HYPERMED IMAGING, INC.(United States of America)",
+      "inventors": "DARTY, MARK ANTHONY(United States of America)",
+      "abstract": "A hyperspectral/multispectral imager comprising a housing is provided. At least one light source is attached to the housing. An objective lens, in an optical communication path comprising originating and terminating ends, is further attached to the housing and causes light to (i) be backscattered by the tissue of a subject at the originating end and then (ii) pass through the objective lens to a beam steering element at the terminating end of the communication path inside the housing. The beam steering element has a plurality of operating modes each of which causes the element to be in optical communication with a different optical detector in a plurality of optical detectors offset from the optical communication path."
+  },
+  {
+      "id": "CA 2549830",
+      "title": "SELECTIVE INCORPORATION OF 5-HYROXYTRYPTOPHAN INTO PROTEINS IN MAMMALIAN CELLS",
+      "code": "WO2006/001832",
+      "publication_date": "2006-01-05",
+      "application_date": "2003-12-18",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2549830/summary.html",
+      "applicants": "THE SCRIPPS RESEARCH INSTITUTE(United States of America)",
+      "inventors": [
+          "ZHANG, ZHIWEN(United States of America)",
+          "ALFONTA, LITAL(United States of America)",
+          "SCHULTZ, PETER(United States of America)"
+      ],
+      "abstract": "This invention provides methods and compositions for incorporation of anunnatural amino acid into a peptide using an orthogonal aminoacyl tRNAsynthetase/tRNA pair. In particular, an orthogonal pair is provided toincorporate 5-hydroxy-L-tryptophan in a position encoded by an opal mutation."
+  },
+  {
+      "id": "CA 2873546",
+      "title": "PLANTS HAVING ENHANCED YIELD-RELATED TRAITS AND METHOD FOR MAKING SAME",
+      "code": "WO2013/190399",
+      "publication_date": "2013-12-27",
+      "application_date": "2012-06-22",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2873546/summary.html",
+      "applicants": "BASF PLANT SCIENCE COMPANY GMBH(Germany)",
+      "inventors": [
+          "RUSSINOVA, JENNY(Belgium)",
+          "REUZEAU, CHRISTOPHE(France)"
+      ],
+      "abstract": "A method for enhancing various economically important yield-related traits in plants is provided. More specifically, a method for enhancing one or more yield-related traits in plants is provided, by modulating expression in a plant of a nucleic acid encoding a POI (protein of interest) polypeptide. Also provided are plants having modulated expression of a nucleic acid encoding a POI polypeptide, which plants have one or more enhanced yield-related traits compared with control plants. Constructs useful in performing the methods of the invention are further provided."
+  },
+  {
+      "id": "CA 2829914",
+      "title": "FOREST SENSOR DEPLOYMENT AND MONITORING SYSTEM",
+      "code": "Missing International Code",
+      "publication_date": "2014-06-07",
+      "application_date": "2012-12-07",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2829914/summary.html",
+      "applicants": "THE BOEING COMPANY(United States of America)",
+      "inventors": [
+          "VIAN, JOHN LYLE(United States of America)",
+          "SPINELLI, CHARLES B.(United States of America)",
+          "TILLOTSON, BRIAN J.(United States of America)",
+          "ROE, GEORGE M.(United States of America)",
+          "PRZYBYLKO, JOSHUA(United States of America)"
+      ],
+      "abstract": "A method and apparatus for managing a location. Soil sensor units are deployed in the location in a forest from a group of aerial vehicles. Information is generated about a number of soil conditions in the location in the forest using the soil sensor units in the location. The information is transmitted from the soil sensor units to a remote location for analysis."
+  },
+  {
+      "id": "CA 3119812",
+      "title": "MAPPING FIELD ANOMALIES USING DIGITAL IMAGES AND MACHINE LEARNING MODELS",
+      "code": "WO2020/123402",
+      "publication_date": "2020-06-18",
+      "application_date": "2018-12-10",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3119812/summary.html",
+      "applicants": "THE CLIMATE CORPORATION(United States of America)",
+      "inventors": [
+          "PESHLOV, BOYAN(United States of America)",
+          "WANG, WEILIN(United States of America)"
+      ],
+      "abstract": "A computer-implemented method for generating an improved map of field anomalies using digital images and machine learning models is disclosed. In an embodiment, a method comprises: obtaining a shapefile that defines boundaries of an agricultural plot and boundaries of the field containing the plot; obtaining a plurality of plot images; calibrating and pre-processing the plurality of plot images to create a plot map of the agricultural plot at a plot level; based on the plot map, generating a plot grid; based on the plot grid and the plot map, generating a plurality of plot tiles; based on the plurality of plot tiles, generating, using a machine learning model and a plurality of image classifiers corresponding to one or more anomalies, a set of classified plot images that depicts at least one anomaly; based on the set of classified plot images, generating a plot anomaly map for the agricultural plot."
+  },
+  {
+      "id": "CA 3190975",
+      "title": "SYSTEM AND METHOD FOR PLANT INDEXING IN A HYDROPONIC FARMING ENVIRONMENT AND A HYDROPONIC FARMING ENVIRONMENT",
+      "code": "WO2022/031471",
+      "publication_date": "2022-02-10",
+      "application_date": "2020-08-07",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3190975/summary.html",
+      "applicants": "LOCAL BOUNTI OPERATING COMPANY LLC(United States of America)",
+      "inventors": [
+          "JOYNER, TRAVIS M.(United States of America)",
+          "SWEENEY, RYAN(United States of America)",
+          "LEGGOTT, JEFF(United States of America)"
+      ],
+      "abstract": "A farming method may be shown and described. In an exemplary embodiment, plants may begin in a germination phase. Next, plants are brought to a nursery for a period of time before optionally being transplanted to one or more subsequent nurseries. Finally, plants are transplanted to a greenhouse where they may grow until they are ready for harvest. In an exemplary embodiment, the nursery phases may be vertical farms while the greenhouse phase may be a traditional farm which receives sunlight. AI may be implemented to optimize environmental conditions and robotics may be used to harvest the plants. Plants may be indexed in order to efficiently expedite plant growth and optimize the time in each phase."
+  },
+  {
+      "id": "CA 2822385",
+      "title": "ANTI-INFLAMMATORY PROTEINS AND METHODS OF PREPARATION AND USE THEREOF",
+      "code": "WO2012/087160",
+      "publication_date": "2012-06-28",
+      "application_date": "2010-12-22",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2822385/summary.html",
+      "applicants": "MANUKAMED LIMITED(New Zealand)",
+      "inventors": [
+          "BEAN, AMANDA(New Zealand)",
+          "MOLAN, PETER(New Zealand)",
+          "CURSONS, RAY(New Zealand)",
+          "WILKINS, RICHARD(New Zealand)"
+      ],
+      "abstract": "The present disclosure relates to anti-inflammatory proteins, their uses, methods of preparation and methods of their detection. In particular, the invention relates to major royal jelly proteins modified by methyglyoxal and fragments thereof from manuka honey."
+  },
+  {
+      "id": "CA 3054970",
+      "title": "DRUG DISCOVERY PLATFORM",
+      "code": "WO2018/165200",
+      "publication_date": "2018-09-13",
+      "application_date": "2017-03-07",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3054970/summary.html",
+      "applicants": "ANIVIVE LIFESCIENCES, INC.(United States of America)",
+      "inventors": [
+          "BALSZ, DYLAN(United States of America)",
+          "ARBUCKLE, CODY LLOYD(United States of America)",
+          "BRUYETTE, DAVID(United States of America)",
+          "SIRAGO, NICHOLAS(United States of America)"
+      ],
+      "abstract": "Described is a system for discovering potential veterinary medicines. The system can identify compounds used in human medicine that are candidates for repurposing. The system can use a software application to search for possible candidate compounds for treating animal disease. It can also search research data, for example, clinical trial data, to identify potential compounds for use in veterinary medicine. The system may rank sources and report the search results along with supporting evidence."
+  },
+  {
+      "id": "CA 3030803",
+      "title": "PLANTS HAVING INCREASED TOLERANCE TO HERBICIDES",
+      "code": "WO2018/011750",
+      "publication_date": "2018-01-18",
+      "application_date": "2016-07-15",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3030803/summary.html",
+      "applicants": "BASF SE(Germany)",
+      "inventors": [
+          "SCHACHTSCHABEL, DOREEN(Germany)",
+          "HOLLENBACH, EVA(Germany)",
+          "SISAY, MIHIRET TEKESTE(Germany)",
+          "STEINHARDT, BIRGIT(Germany)",
+          "HANZLIK, KRISTIN(Germany)",
+          "TRESCH, STEFAN(Germany)",
+          "VOGT, FLORIAN(Germany)",
+          "GEERDINK, DANNY(Germany)"
+      ],
+      "abstract": "Provided is a plant or plant part comprising a polynucleotide encoding a mutated TriA polypeptide. The expression of said polynucleotide confers to the plant or plant part tolerance to herbicides."
+  },
+  {
+      "id": "CA 2822876",
+      "title": "ANALYTE ION DETECTION METHOD AND DEVICE",
+      "code": "WO2012/083371",
+      "publication_date": "2012-06-28",
+      "application_date": "2010-12-23",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2822876/summary.html",
+      "applicants": "CRC CARE PTY LTD(Australia)",
+      "inventors": [
+          "NAIDU, RAVENDRA(Australia)",
+          "WANG, LIANG(Australia)",
+          "CHEN, ZULIANG(Australia)",
+          "MALLAVARAPU, MEGHARAJ(Australia)"
+      ],
+      "abstract": "The present invention relates to a method of assessing concentration of at least one analyte ion in a liquid, the method including contacting the liquid with a plurality of electrodes, each of which is configured to generate a signal in response to sensing a selected ion in the liquid; receiving the signal from each of the electrodes; processing the signal from each of the electrodes using a neural network algorithm residing on a processor that has been trained to calculate ion interference between the selected ion and other ions in the liquid sensed at one of the electrodes and/or electrode interference between ones of the electrodes sensing a same selected ion based on a result of a comparison of training data indicative of a known ionic concentration applied to the neural network algorithm and the known ionic concentration; compensating for said ion interference and/or said electrode interference; and assessing the concentration of the at least analyte ion in the liquid on the basis of a compensated output from the neural network algorithm."
+  },
+  {
+      "id": "CA 3108032",
+      "title": "LAND ACQUISITION AND PROPERTY DEVELOPMENT ANALYSIS PLATFORM",
+      "code": "WO2020/026024",
+      "publication_date": "2020-02-06",
+      "application_date": "2018-08-01",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3108032/summary.html",
+      "applicants": "LANDCLAN LIMITED(United Kingdom)",
+      "inventors": [
+          "KALYANASUNDARAM, MURALI(United Kingdom)",
+          "HANKE, MARCUS(United Kingdom)"
+      ],
+      "abstract": "The invention is directed to systems and methods for providing land acquisition and property development analysis services via a cloud-based platform. The intelligent, digital platform of the present invention deploys unique artificial intelligence algorithms across a centralized repository (i.e., data lake) consisting of data sets from third-party data sources to score, mine, financially model, and provide 3D visualization of any proposed development site or scheme in a geographical area of interest based on user input with an interactive interface provided on the platform."
+  },
+  {
+      "id": "CA 3178041",
+      "title": "ENDOPHYTIC MICROBIAL SYMBIONTS IN PLANT PRENATAL CARE",
+      "code": "Missing International Code",
+      "publication_date": "2014-08-14",
+      "application_date": "not found",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3178041/summary.html",
+      "applicants": "UNIVERSITY OF SASKATCHEWAN(Canada)",
+      "inventors": [
+          "VUJANOVIC, VLADIMIR(Canada)",
+          "GERMIDA, JAMES J.(Canada)"
+      ],
+      "abstract": "The present disclosure provides novel endophyte strains orcultures thereof that have a symbiotic relationship with plants. The presentdisclosure further provides methods of improving seed vitality, biotic andabiotic stress resistance, plant health and yield under both stressed andunstressed environmental conditions, comprising inoculating a seed with thenovel endophyte strains and cultivating a plant therefrom."
+  },
+  {
+      "id": "CA 3140955",
+      "title": "METHOD FOR PLANTATION TREATMENT BASED ON IMAGE RECOGNITION",
+      "code": "WO2020/234296",
+      "publication_date": "2020-11-26",
+      "application_date": "2019-05-20",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3140955/summary.html",
+      "applicants": "BASF AGRO TRADEMARKS GMBH(Germany)",
+      "inventors": [
+          "JANSSEN, OLE(Germany)",
+          "TEMPEL, MATTHIAS(Germany)",
+          "KIEPE, BJOERN(Germany)",
+          "WAHABZADA, MIRWAES(Germany)"
+      ],
+      "abstract": "Method for plantation treatment of a plantation field, the method comprising taking an image of a plantation of a plantation field; recognizing items on the taken image by running a first image recognition analysis of a first complexity on the taken image based on a stored parametrization of a machine learning algorithm; identifying an unsatisfying image analysis result; determining ambient data corresponding to the taken image; recognizing items on the taken image by running a second image recognition analysis of a second complexity on the image based on the ambient data on an external device, wherein the second complexity is higher than the first complexity; determining an improved parametrization based on the second image recognition analysis for the machine learning algorithm for improving the first image recognition analysis; and controlling a treatment arrangement of a treatment device based on the first image recognition analysis."
+  },
+  {
+      "id": "CA 3054980",
+      "title": "AUTOMATED PROFILING OF THE CONDITION OF WOOD",
+      "code": "Missing International Code",
+      "publication_date": "2020-03-19",
+      "application_date": "2018-09-19",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3054980/summary.html",
+      "applicants": "OSMOSE UTILITIES SERVICES, INC.(United States of America)",
+      "inventors": "MORE, RANDAL K.(United States of America)",
+      "abstract": "A device for evaluating the condition of a wooden structure, including: ashaft; a distancesensor coupled to the shaft; and an image capture device coupled to the shaft,the distance sensorbeing configured to measure a location of the image capture device in thewooden structure."
+  },
+  {
+      "id": "CA 3183940",
+      "title": "ENHANCED MANAGEMENT ZONES FOR PRECISION AGRICULTURE",
+      "code": "WO2021/243315",
+      "publication_date": "2021-12-02",
+      "application_date": "2020-05-29",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3183940/summary.html",
+      "applicants": [
+          "SOILMETRIX, INC.(United States of America)",
+          "NORTH CAROLINA STATE UNIVERSITY(United States of America)",
+          "IOWA STATE UNIVERSITY RESEARCH FOUNDATION, INC.(United States of America)"
+      ],
+      "inventors": [
+          "WHITE, JEFFREY G.(United States of America)",
+          "MILLER, BRADLEY A.(United States of America)",
+          "BIELSKI, JULIANNE(United States of America)"
+      ],
+      "abstract": "The present invention is a system and method for agricultural management-zone delineation to be done over broad geographic extents without overly-localized field-specific data. The instant innovation guides precision agricultural sampling and management by delineating enhanced management zones based upon remote sensing and artificial intelligence and combining the two with data derived from an existing countrywide soil survey database. In an embodiment, the instant innovation uses artificial intelligence from multiple sources to provide granular zone detail. Output of the present innovation can be aggregated to produce management zone sizes that have a level of uncertainty compatible with the needs of the customer-farmer and implementable given the capabilities of available equipment."
+  },
+  {
+      "id": "CA 2736473",
+      "title": "PLANTS WITH INCREASED YIELD (LT)",
+      "code": "WO2010/034672",
+      "publication_date": "2010-04-01",
+      "application_date": "2008-09-23",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2736473/summary.html",
+      "applicants": "BASF PLANT SCIENCE GMBH(Germany)",
+      "inventors": [
+          "THIMM, OLIVER(Germany)",
+          "RITTE, GERHARD(Germany)",
+          "SCHOEN, HARDY(Germany)",
+          "BLAESING, OLIVER(Germany)"
+      ],
+      "abstract": "A method for producing a plant with increased yield as compared to acorresponding wild type plant comprising atleast the following step: increasing or generating in a plant or a partthereof one or more activities selected from the group consistingof 3-phosphoglycerate dehydrogenase, Adenylate kinase, B2758-protein, Cyclicnucleotide phosphodiesterase, cysteine synthase,Exopolyphosphatase, geranylgeranyl reductase, Mating hormone A- factorprecursor, mitochondrial succinate-fumaratetransporter, modification methylase HemK family protein, Myo-inositoltransporter, oxidoreductase subunit, peptidy-prolyl-cistrans-isomerase,protein kinase, Ribose-5-phosphate isomerase, slr1293-protein, YDR049W-protein, YJL181 W-protein, andYPL109C-protein -activity."
+  },
+  {
+      "id": "CA 2788241",
+      "title": "PLANTS HAVING ENHANCED YIELD-RELATED TRAITS AND A METHOD FOR MAKING THE SAME",
+      "code": "WO2011/104128",
+      "publication_date": "2011-09-01",
+      "application_date": "2010-02-24",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2788241/summary.html",
+      "applicants": "BASF PLANT SCIENCE COMPANY GMBH(Germany)",
+      "inventors": [
+          "HATZFELD, YVES(France)",
+          "INZE, DIRK(Belgium)",
+          "DE JAEGER, GEERT(Belgium)",
+          "VERKEST, AURINE(Belgium)",
+          "FRANKARD, VALERIE(Belgium)",
+          "REUZEAU, CHRISTOPHE(France)",
+          "SANZ MOLINERO, ANA ISABEL(Spain)",
+          "BRUYNSEELS, KOEN(Belgium)"
+      ],
+      "abstract": "The present invention relates generally to the field of molecular biology and concerns a method for enhancing yield-related traits in plants by modulating expression in a plant of a nucleic acid encoding an importin or a yield-related polypeptide. The present invention also concerns plants having modulated expression of a nucleic acid encoding an importin or a yield-related polypeptide, which plants have enhanced yield-related traits relative to corresponding wild type plants or other control plants. The invention also provides constructs useful in the methods of the invention."
+  },
+  {
+      "id": "CA 2898513",
+      "title": "METHODS, PRODUCTS, AND SYSTEMS RELATING TO MAKING, PROVIDING, AND USING NANOCRYSTALLINE (NC) PRODUCTS COMPRISING NANOCRYSTALLINE CELLULOSE (NCC), NANOCRYSTALLINE (NC) POLYMERS AND/OR NANOCRYSTALLINE (NC) PLASTICS OR OTHER NANOCRYSTALS OF CELLULOSE COMPOSITES OR STRUCTURES, IN COMBINATION WITH OTHER MATERIALS",
+      "code": "Missing International Code",
+      "publication_date": "2017-01-27",
+      "application_date": "not found",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2898513/summary.html",
+      "applicants": "HEATH, STEPHAN(United States of America)",
+      "inventors": "HEATH, STEPHAN(United States of America)",
+      "abstract": "Methods, apparatus, products, and/or systems relating to making or usingnanocrystalline (NC) products comprising acombination of one or more of nanocrystalline cellulose (NCC), nanocrystalline(NC) polymers, nanocrystalline (NC)plastics or other nanocrystals of cellulose composites or structures that havebeen processed into one or more of solid,flake, particles or other forms with vapor processing, solid state processing,liquid processing or other processingmethods that can optionally be combined with other materials for differentnanocrystalline (NC) applications,products or uses, and the like."
+  },
+  {
+      "id": "CA 2972973",
+      "title": "MACHINE LEARNING-BASED FAULT DETECTION SYSTEM",
+      "code": "WO2016/112209",
+      "publication_date": "2016-07-14",
+      "application_date": "2015-01-09",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2972973/summary.html",
+      "applicants": "ECORITHM, INC.(United States of America)",
+      "inventors": [
+          "GEORGESCU, MICHAEL VINCENT(United States of America)",
+          "MEZIC, IGOR(United States of America)",
+          "PESCHIERA, GABRIEL SEBASTIAN(United States of America)",
+          "KASPER, DONALD WILLIAM, III(United States of America)",
+          "LOIRE, SOPHIE MARIE LOUISE(United States of America)"
+      ],
+      "abstract": "Various systems and methods are provided that detect faults in data-based systems utilizing techniques that stem from the field of spectral analysis and artificial intelligence. For example, a data-based system can include one or more sensors associated with a subsystem that measure time-series data. A set of indicator functions can be established that define anomalous behavior within a subsystem. The systems and methods disclosed herein can, for each sensor, analyze the time-series data measured by the respective sensor in conjunction with one or more indicator functions to identify anomalous behavior associated with the respective sensor of the subsystem. A spectral analysis can then be performed on the analysis to generate spectral responses. Clustering techniques can be used to bin the spectral response values and the binned values can be compared with fault signatures to identify faults. Identified faults can then be displayed in a user interface."
+  },
+  {
+      "id": "CA 2880845",
+      "title": "GENES AND PROCESSES FOR THE PRODUCTION OF CLAVINE-TYPE ALKALOIDS",
+      "code": "WO2014/030096",
+      "publication_date": "2014-02-27",
+      "application_date": "2012-08-22",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2880845/summary.html",
+      "applicants": [
+          "BASF SE(Germany)",
+          "EVOLVA SA(Switzerland)"
+      ],
+      "inventors": [
+          "NAESBY, MICHAEL(Switzerland)",
+          "FOLLY, CHRISTOPHE(Switzerland)",
+          "NIELSEN, CURT AIME FRIIS(Switzerland)",
+          "HATSCH, ANAELLE(France)",
+          "SCHWAB, MARKUS(Germany)",
+          "ZELDER, OSKAR(Germany)",
+          "HAEFNER, STEFAN(Germany)",
+          "SCHRODER, HARTWIG(Germany)",
+          "HOFF, BIRGIT(Germany)",
+          "MOLT, ANDREA(Germany)",
+          "DITRICH, KLAUS(Germany)",
+          "BREUER, MICHAEL(Germany)",
+          "HARTMANN, HOLGER(Germany)",
+          "KORBER, KARSTEN(Germany)"
+      ],
+      "abstract": "Microorganisms and processes for the recombinant manufacture of clavine-type alkaloids such as cycloclavine, festuclavine, agroclavine, chanoclavine and chanoclavine aldehyde, as well as polypeptides, polynucleotides and vectors comprising such polynucleotides which can be applied in a method for the manufacture of clavine-type alkaloids are provided."
+  },
+  {
+      "id": "CA 3119462",
+      "title": "FLUID-COOLED LED-BASED LIGHTING METHODS AND APPARATUS FOR CONTROLLED ENVIRONMENT AGRICULTURE",
+      "code": "WO2020/102453",
+      "publication_date": "2020-05-22",
+      "application_date": "2018-11-13",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3119462/summary.html",
+      "applicants": "AGNETIX, INC.(United States of America)",
+      "inventors": [
+          "LYS, IHOR(United States of America)",
+          "MADERAS, NICHOLAS(United States of America)"
+      ],
+      "abstract": "A fluid-cooled LED-based lighting fixture for Controlled Environment Agriculture (CEA) to improve energy efficiency, recycle waste heat, and support the operation of environmental sensors in a controlled agricultural environment. In one example, a lighting fixture frame mechanically supports and houses respective components of the lighting fixture and includes a light spine to mechanically couple the lighting fixture to a support structure. One or more coolant pipes formed from copper and coupled to the lighting fixture frame conduct a fluid coolant through the lighting fixture to remove heat. The lighting fixture comprises one or more LED modules to emit light, one or more onboard sensors and/or cameras, wireless communication functionality, and multiple electrical power and communication ports to facilitate interconnection of the lighting fixture in a variety of controlled agricultural environments. In some examples, the lighting fixture includes a multispectral imaging system to acquire multispectral images of the environment."
+  },
+  {
+      "id": "CA 3214277",
+      "title": "LTR TRANSPOSON COMPOSITIONS AND METHODS",
+      "code": "WO2022/198014",
+      "publication_date": "2022-09-22",
+      "application_date": "2021-03-19",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3214277/summary.html",
+      "applicants": "FLAGSHIP PIONEERING INNOVATIONS VI, LLC(United States of America)",
+      "inventors": [
+          "CITORIK, ROBERT JAMES(United States of America)",
+          "SALOMON, WILLIAM EDWARD(United States of America)",
+          "WANG, ZI JUN(United States of America)",
+          "RUBENS, JACOB ROSENBLUM(United States of America)",
+          "WEINBERG, BENJAMIN HARRIS(United States of America)"
+      ],
+      "abstract": "Methods and compositions for altering a genome at one or more locations in a host cell, tissue, or subject are disclosed."
+  },
+  {
+      "id": "CA 2603140",
+      "title": "USE OF BACILLUS LICHENIFORMIS POLYPEPTIDES IN ANIMAL FEED",
+      "code": "WO2006/099871",
+      "publication_date": "2006-09-28",
+      "application_date": "2005-03-22",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2603140/summary.html",
+      "applicants": "NOVOZYMES A/S(Denmark)",
+      "inventors": [
+          "OESTERGAARD, PETER RAHBEK(Denmark)",
+          "ANDERSEN, LENE NONBOE(Denmark)",
+          "SEON, AURELIA(France)",
+          "SIMOES-NUNES, CARLOS(France)",
+          "KLUENTER, ANNA-MARIA(Germany)",
+          "DE MARIA, LEONARDO(Denmark)",
+          "CHRISTENSEN, BJORN EGGERT(Denmark)"
+      ],
+      "abstract": "The present invention relates to isolated polypeptides and isolated nucleicacid sequences encoding the polypeptides, as well as methods for producing andusing the polypeptides in animal feed. An example of a polypeptide of theinvention is the so-called L12 protein from Bacillus licheniformis ATCC 14580which improves the Feed Conversion Ratio (FCR) and/or acts as a gut microfloramodulator. The invention furthermore relates to the probiotic use of strainsof Bacillus which produce proteins related to L12."
+  },
+  {
+      "id": "CA 3154885",
+      "title": "SYSTEM AND METHOD OF MONITORING MICROBIAL METABOLIC PROCESSES",
+      "code": "WO2021/072541",
+      "publication_date": "2021-04-22",
+      "application_date": "2019-10-16",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3154885/summary.html",
+      "applicants": "AQUASIGNUM INC.(Canada)",
+      "inventors": [
+          "CROOK, SPENCER RONALD(Canada)",
+          "DUMITRACHE, ROMEO GABRIEL(Canada)",
+          "KROUKAMP, MARTHINUS(Canada)",
+          "RONAN, EVAN LINDSAY GILMORE(Canada)",
+          "RONAN, PATRICK CHARLES GILMORE(Canada)"
+      ],
+      "abstract": "Embodiments described herein relate to a system, method, and sensors for real-time microbial monitoring based on the presence and concentrations of microbial signals, typically gaseous compounds, which are reflective of the microbial population size, microbial health, and/or microbial metabolic activity level within aqueous environments. Use of the disclosed technology to provide online remote measurement of microbial signals, and importantly the detection of changes therein, can be used to determine stable operating conditions and detect fluctuations in water quality. The sensor monitoring technology is able to monitor the native microbial population present in an aquatic environment and does not consume any reagents or require discrete sampling points. Further, an online measurement can be implemented to track microbial activity in real-time."
+  },
+  {
+      "id": "CA 2411199",
+      "title": "RECOMBINANT BACTERIAL PHYTASES AND USES THEREOF",
+      "code": "WO2001/090333",
+      "publication_date": "2001-11-29",
+      "application_date": "2000-05-25",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2411199/summary.html",
+      "applicants": "DIVERSA CORPORATION(United States of America)",
+      "inventors": [
+          "SHORT, JAY M.(United States of America)",
+          "GRAY, KEVIN A.(United States of America)",
+          "BARTON, NELSON ROBERT(United States of America)",
+          "GARRETT, JAMES B.(United States of America)",
+          "O'DONOGHUE, EILEEN(United States of America)",
+          "ROBERTSON, DAN(United States of America)"
+      ],
+      "abstract": "A purified and modified phytase enzyme from Escherichia coli K12 appA phytaseis provided. The enzyme has phytase activity and improved thermal tolerance ascompared with the wild-type enzyme. In addition, the enzyme has improvedprotease stability at low pH. Glycosylation of the modified phytase provided afurther improved enzyme having improved thermal tolerance and proteasestability. The enzyme can be produced from native or recombinant host cellsand can be used to aid in the digestion of phytase where desired. Inparticular, the phytase of the present invention can be used in foodstuffs toimprove the feeding value of phytase rich ingredients."
+  },
+  {
+      "id": "CA 3125709",
+      "title": "METHOD AND SYSTEM FOR AGRICULTURE",
+      "code": "WO2019/138212",
+      "publication_date": "2019-07-18",
+      "application_date": "2018-01-10",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3125709/summary.html",
+      "applicants": "XIHELM LIMITED(United Kingdom)",
+      "inventors": [
+          "KENT, JAMES(United Kingdom)",
+          "RUSSELL, ARTHUR JACK(United Kingdom)",
+          "ISAAC, FRED(United Kingdom)"
+      ],
+      "abstract": "A method (2000) of operating on crops (14) in a target area (20), comprising: using one or more sensors (1306), capturing (2200) data related to crops in a target area; mapping (2400) locations of the crops in the target area using the captured sensor data; generating (2600) one or more routes between at least some of the crops in the target area based on the mapped locations; and routing (2800) one or more operating units (1200) along the one or more routes thereby to operate on at least one of the crops."
+  },
+  {
+      "id": "CA 3194153",
+      "title": "SYSTEM AND METHOD OF PREDICTING FAILURES",
+      "code": "WO2022/112991",
+      "publication_date": "2022-06-02",
+      "application_date": "2020-11-30",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3194153/summary.html",
+      "applicants": "JIO PLATFORMS LIMITED(India)",
+      "inventors": [
+          "KUMAR, AKANSHA(India)",
+          "MUNNANGI, KRUSHEEL(India)",
+          "KUMAR, SHAILESH(India)"
+      ],
+      "abstract": "A system and method for prediction of failures and optimization, that can provide solution available for unsupervised learning models based on limited data that can predict different types of failure and pre-failure instances. The solution provides improvement upon previous methods of labelling by marking certain days data ahead of failure as belonging to failure data which will result in reduction of noisy data and improves good working condition data. The present invention helps with improved data quality due to labelling as the proposed method models complex distributions of feature vectors accurately and are better at finding deviations from normal data distribution which is used for detecting failures. The novel solution help to analyse and categorise the type of failures for PC Pumps currently deployed in CBM Fields for which failure days in advance can be predicted."
+  },
+  {
+      "id": "CA 2612116",
+      "title": "PLANT YIELD IMPROVEMENT BY STE20-LIKE GENE EXPRESSION",
+      "code": "WO2007/003660",
+      "publication_date": "2007-01-11",
+      "application_date": "2005-07-06",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2612116/summary.html",
+      "applicants": "CROPDESIGN N.V.(Belgium)",
+      "inventors": [
+          "REUZEAU, CHRISTOPHE(France)",
+          "SANZ MOLINERO, ANA ISABEL(Belgium)"
+      ],
+      "abstract": "The present invention concerns a method for increasing plant yield bymodulating expression in a plant of a nucleic acid encoding a Ste20-likepolypeptide or a homologue thereof. One such method comprises introducing intoa plant a Ste20-like nucleic acid or variant thereof. The invention alsorelates to transgenic plants having introduced therein a Ste20-like nucleicacid or variant thereof, which plants have increased yield relative to controlplants. The present invention also concerns constructs useful in the methodsof the invention."
+  },
+  {
+      "id": "CA 3216958",
+      "title": "SYSTEMS AND METHODS FOR AUTOMATIC CARBON INTENSITY CALCULATION AND TRACKING",
+      "code": "WO2022/232162",
+      "publication_date": "2022-11-03",
+      "application_date": "2021-04-27",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3216958/summary.html",
+      "applicants": [
+          "GRUBER, PATRICK(United States of America)",
+          "IMPEKOVEN, CHRISTOPH(Germany)"
+      ],
+      "inventors": [
+          "GRUBER, PATRICK(United States of America)",
+          "IMPEKOVEN, CHRISTOPH(Germany)"
+      ],
+      "abstract": "Examples of the present disclosure describe systems/methods for automatically generating and tracking a carbon intensity (CI) score assigned to a particular product as the product traverses through a processing plant and discrete steps in a supply chain. In some examples, intermediate CI scores may be assigned to the product as it completes each step in its life cycle. The intermediate CI scores may be aggregated to produce a final CI score. Each intermediate CI score is recorded on a blockchain, such that the CI score is independently verifiable and auditable. In other example aspects, a machine-learning model may be applied to the input data received from each supply chain stakeholder and CI scores, wherein the machine-learning model generates intelligent suggestions to stakeholders for how to tweak their processes to lower CI scores. In other examples, a CI score may be used to derive a value for a CI token."
+  },
+  {
+      "id": "CA 2406907",
+      "title": "CENTRALISED STOCHASTIC SIMULATION PROCESS",
+      "code": "WO2001/086473",
+      "publication_date": "2001-11-15",
+      "application_date": "2000-05-11",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2406907/summary.html",
+      "applicants": [
+          "BILLIOTTE, JEAN-MARIE(France)",
+          "ADLERBERG, INGMAR(France)",
+          "DOUADY, RAPHAEL(France)",
+          "LE MAROIS, OLIVIER(France)",
+          "DURAND, PHILIPPE(France)",
+          "KOVALENKO, IVAN(Russian Federation)",
+          "BASSET, FREDERIC(United Kingdom)"
+      ],
+      "inventors": [
+          "BILLIOTTE, JEAN-MARIE(France)",
+          "ADLERBERG, INGMAR(France)",
+          "DOUADY, RAPHAEL(France)",
+          "LE MAROIS, OLIVIER(France)",
+          "DURAND, PHILIPPE(France)",
+          "KOVALENKO, IVAN(Russian Federation)",
+          "BASSET, FREDERIC(United Kingdom)"
+      ],
+      "abstract": "A Statistic/probalistic process for stochastic stimulation inview of performing hierarchically nevertheless jointly theprobabilistic prediction of future behaviour and/or theoptimisation of productivity parameters for a number remotelocal industrial systems (S u(u=1...n). The local industrialsystems (S u) are subjected to a common and evolutionary globalenvironment (E) numerically described with p state variables(X t(t)(i=1...p)). On the one hand, at the level of a centralisedtransmitting site (U), an \"smp series of probabilisticsimulations\" with a multi-value description ofenvironment (E) variables (X i(t)(i=1...p)) is repetitively generatedat successive instants (t o) in a centralized manner. Said \"smpseries of probabilistic simulations\" (W~) are teletransmittedtowards the whole of the number of remote local systems (S u).On the other hand, at the level of each of local systems (S u),said \"smp series of probabilistic simulations\" (W~) with amulti-value are collected and a specific local statisticaland numerical processing is performed on said series ofprobabilistic simulations (W~) received in order to predictfuture probabilistic behaviour of local industrial systems(S u).The process according to the invention can be used withadvantage in many industrial, financial, agriculturalimplementation, where the behaviour of decentralizedindustrial sites exposed to a common random environmentshould be optimized."
+  },
+  {
+      "id": "CA 2989538",
+      "title": "METHOD FOR ANALYZING BIOMOLECULE BY USING EXTERNAL BIOMOLECULE AS STANDARD MATERIAL, AND KIT THEREFOR",
+      "code": "WO2016/171474",
+      "publication_date": "2016-10-27",
+      "application_date": "2015-04-20",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2989538/summary.html",
+      "applicants": "KIM, SUNG CHUN(Republic of Korea)",
+      "inventors": "KIM, SUNG CHUN(Republic of Korea)",
+      "abstract": "The present invention normally relates to a method for analyzing a biomolecule and, more specifically, to: a ligand-nucleic acid analysis method, kit, apparatus and system for analyzing one or more biomolecules through a nucleic acid analysis technique by using a quality control and measurement standard material for the clinical decision support of biomolecules; and a clinical decision support system using the same."
+  },
+  {
+      "id": "CA 3170517",
+      "title": "AN IMPACT MATERIAL PROCESSING DEVICE",
+      "code": "WO2021/155444",
+      "publication_date": "2021-08-12",
+      "application_date": "2020-02-05",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3170517/summary.html",
+      "applicants": "SEED TERMINATOR HOLDINGS PTY LTD(Australia)",
+      "inventors": "BERRY, NICHOLAS KANE(Australia)",
+      "abstract": "An impact processing device comprises a central impact mechanism arranged to rotate about a rotation axis and a first processing stage that includes the impact mechanism and a first structure extending circumferentially about the impact mechanism. The first structure has a first processing sector, and a first screening sector, where the processing sector extends for a first circumferential portion of the first structure and comprises an impervious textured surface and the first screening sector comprise a plurality of holes and extends for a second circumferential portion of the first structure. The impact mechanism is operable to impact material against the first processing sector and generate a flow of the impacted material to first screening sector through which at least a portion of the impacted material can pass."
+  },
+  {
+      "id": "CA 2708506",
+      "title": "PLANTS HAVING ENHANCED YIELD-RELATED TRAITS AND A METHOD FOR MAKING THE SAME",
+      "code": "WO2009/080802",
+      "publication_date": "2009-07-02",
+      "application_date": "2007-12-20",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2708506/summary.html",
+      "applicants": "BASF PLANT SCIENCE GMBH(Germany)",
+      "inventors": [
+          "SANZ MOLINERO, ANA ISABEL(Belgium)",
+          "REUZEAU, CHRISTOPHE(France)",
+          "FRANKARD, VALERIE(Belgium)",
+          "HATZFELD, YVES(France)"
+      ],
+      "abstract": "The present invention relates generally to the field of molecularbiology and concerns a method for enhancing various yield-related traits inplants bymodulating expression in a plant of a nucleic acid encoding a TCP1 or a TCP2transcription factor. The present invention also concerns plants havingmodulated expressionof a nucleic acid encoding a TCP1 or TCP2 polypeptide, which plants haveenhancedyield-related traits relative to corresponding wild type plants or othercontrol plants.The invention also provides constructs useful in the methods of the invention.Inan-other embodiment, the present invention relates generally to the field ofmolecularbiology and concerns a method for enhancing various economically importantyield-relatedtraits in plants. More specifically, the present invention concerns a methodforenhancing yield-related traits in plants by modulating expression in a plantof a nucleic acidencoding an Epsin-like polypeptide. The present invention also concerns plantshaving modulated expression of a nucleic acid encoding an Epsin-likepolypeptide, whichplants have enhanced yield-related traits relative to control plants. Theinvention alsoprovides constructs comprising a nucleic acid encoding an Epsin-likepolypeptide,useful in performing the methods of the invention. In yet another embodiment,the presentinvention relates generally to the field of molecular biology and concerns amethod for increasing various plant yield-related traitsby increasing expression in the seeds of a plant, of a nucleic acid sequenceencoding a tRNA delta(2)- isopentenylpyrophosphatetransferase (IPPT) polypeptide. The present invention also concerns plantshaving increased expression in the seeds, of a nucleic acidsequence encoding an IPPT polypeptide, which plants have increased yield-related traits relative to control plants. The inventionadditionally relates to nucleic acid constructs, vectors and plants containingsaid nucleic acid sequences. In further embodiment, thepresent invention relates generally to the field of molecular biology andconcerns a method for enhancing yield-related traits in plantsgrown under conditions of sub-optimal nutrient availability, comprisingmodulating expression in a plant of a nucleic acid encodinga SHORT-ROOT (SHR) polypeptide. The present invention also provides a methodfor increasing Thousand Kernel Weight (TKW)in plants relative to control plants, comprising modulating expression of anucleic acid encoding an SHR polypeptide in a plantgrown under grown under non-nutrient limiting conditions. The presentinvention also concerns plants having modulated expressionof a nucleic acid encoding an SHR polypeptide, which plants have enhancedyield-related traits relative to corresponding wild typeplants or other control plants. The invention also provides constructs usefulin the methods of the invention."
+  },
+  {
+      "id": "CA 3151673",
+      "title": "DYNAMIC AREA THRESHOLDING FOR AUTOMATIC CROP HEALTH CHANGE DETECTION AND ALERTING SYSTEM",
+      "code": "WO2021/097559",
+      "publication_date": "2021-05-27",
+      "application_date": "2019-11-22",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3151673/summary.html",
+      "applicants": "FARMERS EDGE INC.(Canada)",
+      "inventors": "LOGIE, GORDON STUART JAMES(Canada)",
+      "abstract": "A method and system for crop health change monitoring is provided. The method includes acquiring a companion image of a crop growing within a field at a first point in time, acquiring a master image of the crop growing within the field at a second point in time, and computing, using a processor, vegetation indices using the master image and the companion image for subsequently determining regions of change within the master image. An alert condition is determined if change within one or more of the regions of change is sufficient to meet defined criteria. If a minimum field area threshold is met, a modulation coefficient is applied to the defined criteria that determines the alert condition. The coefficient reduces area-based thresholds used in health detection in a manner proportional to the size of the agricultural field of interest."
+  },
+  {
+      "id": "CA 3152949",
+      "title": "LIVESTOCK AND FEEDLOT DATA COLLECTION AND PROCESSING USING UHF-BAND INTERROGATION OF RADIO FREQUENCY IDENTIFICATION TAGS FOR FEEDLOT ARRIVAL AND RISK ASSESSMENT",
+      "code": "WO2021/050775",
+      "publication_date": "2021-03-18",
+      "application_date": "2019-09-12",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3152949/summary.html",
+      "applicants": "PERFORMANCE LIVESTOCK ANALYTICS, INC.(United States of America)",
+      "inventors": [
+          "KUPER, DANE T.(United States of America)",
+          "BALSLEY, DUSTIN C.(United States of America)",
+          "GRAY, PAUL(United States of America)",
+          "SEXTEN, WILLIAM JUSTIN(United States of America)"
+      ],
+      "abstract": "An agricultural data collection framework is provided in a system and method for tracking and managing livestock, and for analyzing animal conditions such as health, growth, nutrition, and behavior. The framework uses ultra-high frequency interrogation of RFID tags to collect individual animal data across multiple geographical locations, and incorporates artificial intelligence techniques to develop machine learning base models for statistical process controls around each animal for evaluating the animal condition. The framework provides a determination of normality at an individual animal basis or for a specific location, and generates alerts, predictions, and a targeted processing or application schedule for prioritizing and delivering resources when intervention is needed."
+  },
+  {
+      "id": "CA 2326689",
+      "title": "STRESS TOLERANT PLANTS",
+      "code": "WO1999/054489",
+      "publication_date": "1999-10-28",
+      "application_date": "1998-04-21",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2326689/summary.html",
+      "applicants": "CROPDESIGN N.V.(Belgium)",
+      "inventors": [
+          "VERBRUGGEN, NATHALIE(Belgium)",
+          "INZE, DIRK(Belgium)",
+          "BEECKMAN, TOM(Belgium)",
+          "BURSSENS, SYLVIA(Belgium)"
+      ],
+      "abstract": "A method for obtaining plants, tolerant to abiotic stress conditions, inparticular osmotic stress, is described, by conferring to a plant the capacityto counteract the stress-induced phosphorylation of Cyclin Dependent Kinase(CDK) proteins. Also vectors for conferring the said capacity are provided."
+  },
+  {
+      "id": "CA 3195997",
+      "title": "IMAGING SYSTEM FOR OBJECT RECOGNITION AND ASSESSMENT",
+      "code": "Missing International Code",
+      "publication_date": "2016-05-26",
+      "application_date": "2014-11-21",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3195997/summary.html",
+      "applicants": "MUTTI, CHRISTOPHER M.(United States of America)",
+      "inventors": [
+          "MUTTI, CHRISTOPHER M.(United States of America)",
+          "LAU, DANIEL L.(United States of America)",
+          "COATES, JOHN P.(United States of America)"
+      ],
+      "abstract": "A method and system for using one or more sensors configured to capture two-dimensional and/or three-dimensional image data of one or more objects. Inparticular, themethod and system combine one or more digital sensors with visible and nearinfraredillumination to capture visible and non-visible range spectral image data forone or moreobjects. The captured spectral image data can be used to separate and identifythe one ormore objects. Additionally, the three-dimensional image data can be used todetermine avolume for each of the one or more objects. The identification and volumetricdata for one ormore objects can be used individually or in combination to obtaincharacteristics about theobjects. The method and system provide the user with the ability to captureimages of one ormore objects and obtain related characteristics or information about each ofthe one or moreobjects."
+  },
+  {
+      "id": "CA 3126171",
+      "title": "LOW-FIELD NUCLEAR MAGNETIC RESONANCE-BASED DEVICE AND METHOD FOR INTELLIGENT DETECTION OF MICROWAVE-DRIED SPICY VEGETABLE FLAVOR",
+      "code": "WO2020/177423",
+      "publication_date": "2020-09-10",
+      "application_date": "2019-03-01",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3126171/summary.html",
+      "applicants": "JIANGNAN UNIVERSITY(China)",
+      "inventors": [
+          "ZHANG, MIN(China)",
+          "SUN, YANAN(China)",
+          "CHEN, HUIZHI(China)",
+          "YANG, PEIQIANG(China)"
+      ],
+      "abstract": "A low-field nuclear magnetism-based device and method for the intelligent detection of a microwave-dried spicy vegetable flavor, which relate to the technical field of the intelligent identification of fruit and vegetable drying quality. Microwave vacuum drying is performed on a sample of a spicy vegetable until the drying is complete. During the microwave vacuum drying process, staged sampling is performed for low-field nuclear magnetic resonance analysis. An electronic nose is used to measure changes in the flavor of the material, and the relationships between a low-field nuclear magnetic relaxation time signal and a peak area signal of the spicy vegetable in the drying process and a feature sensor of the electronic nose are established. An artificial neural network intelligent analysis system is used to analyze and predict changes in the flavor quality of the spicy vegetable in the microwave vacuum drying process. The use of low-field nuclear magnetic resonance detection technology solves the technical problems of flavor change detection during the original drying process on the basis of ensuring the shape of the spicy vegetable to the greatest extent, achieves non-destructive, fast and intelligent detection, improves detection work efficiency and product integrity, and effectively monitors changes in flavor during the drying process."
+  },
+  {
+      "id": "CA 3095642",
+      "title": "COMPARATIVE INSURANCE PREMIUM CALCULATOR AND METHOD",
+      "code": "WO2021/223006",
+      "publication_date": "2021-11-08",
+      "application_date": "not found",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3095642/summary.html",
+      "applicants": "INGLIS, MATTHEW(Canada)",
+      "inventors": "INGLIS, MATTHEW(Canada)",
+      "abstract": "A method of determining and displaying to a user the comparative premium costof aplurality of insurance products available to insure a debt obligation. Theuser enters theprincipal amount of the obligation to be insured along with at least onecommonpremium-determining criteria for each of the plurality via a human interfaceof acomputer, and estimation software uses the entered data to determine anestimatedpremium cost for each of the plurality of insurance products. The estimatedpremiumcosts are displayed to the user. The computer could be a local computer, or aserver withthe human interface being network-connected to the server. Various premiumdetermination methods are disclosed."
+  },
+  {
+      "id": "CA 3212197",
+      "title": "SYSTEMS AND METHODS FOR REAL-TIME MEASUREMENT OF SOIL CARBON SEQUESTRATION USING NON-INVASIVE MULTIMODAL SENSORS",
+      "code": "WO2022/192219",
+      "publication_date": "2022-09-15",
+      "application_date": "2021-03-09",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3212197/summary.html",
+      "applicants": "GROUNDTRUTH AG, INC.(United States of America)",
+      "inventors": [
+          "ANDERSON, JR., JOHN RICHARD(United States of America)",
+          "BOWERS, GRAHAM HUNTER(United States of America)",
+          "DYRUD, LARS(United States of America)",
+          "HONEYCUTT, CLAYTON RAYNOR(United States of America)",
+          "LASKY, JACOB SAMUEL(United States of America)",
+          "NOBBLITT, CHRISTOPHER CASEY(United States of America)"
+      ],
+      "abstract": "A system of soil carbon measurement is provided. The system includes a multimodal sensor payload that includes multiple sensors that are each a different sensor type and that are configured to estimate quantities of carbon stored in a soil area. The sensors include multiple stand-off sensor technologies."
+  },
+  {
+      "id": "CA 3129174",
+      "title": "METHOD AND APPARATUS FOR ACQUIRING BOUNDARY OF AREA TO BE OPERATED, AND OPERATION ROUTE PLANNING METHOD",
+      "code": "WO2019/179269",
+      "publication_date": "2019-09-26",
+      "application_date": "2018-03-21",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3129174/summary.html",
+      "applicants": "GUANGZHOU XAIRCRAFT TECHNOLOGY CO., LTD.(China)",
+      "inventors": "DAI, SHUANGLIANG(China)",
+      "abstract": "Provided is a method for acquiring a boundary of an area to be operated, which belongs to the technical field of agricultural plant protection. The method for acquiring a boundary of an area to be operated comprises: inputting an original image to a pre-set recognition model, the original image comprising an area to be operated (110); acquiring a target image output by the pre-set recognition model (120); and acquiring a boundary of the area to be operated based on the target image (130)."
+  },
+  {
+      "id": "CA 3195068",
+      "title": "NOZZLE LIGHT ASSEMBLY",
+      "code": "WO2022/090853",
+      "publication_date": "2022-05-05",
+      "application_date": "2020-10-26",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/3195068/summary.html",
+      "applicants": "PRECISION PLANTING LLC(United States of America)",
+      "inventors": [
+          "WINKLER, NICHOLAS(United States of America)",
+          "WILDERMUTH, PAUL(United States of America)",
+          "MCMENAMY, JUSTIN(United States of America)"
+      ],
+      "abstract": "A system having: a boom; at least one nozzle assembly attached to the boom; and a nozzle or a second nozzle assembly; wherein the at least one nozzle assembly and the second nozzle assembly each comprise a nozzle and at least one light; wherein the at least one light is disposed to illuminate a spray from an adjacent nozzle assembly or nozzle."
+  },
+  {
+      "id": "CA 2946738",
+      "title": "METHOD AND APPARATUS FOR PLANT GROWTH",
+      "code": "WO2015/164497",
+      "publication_date": "2015-10-29",
+      "application_date": "2014-04-23",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2946738/summary.html",
+      "applicants": "SPROUTSIO, INC.(United States of America)",
+      "inventors": [
+          "BROUTIN FARAH, JENNIFER(United States of America)",
+          "FARAH, KAMAL(United States of America)"
+      ],
+      "abstract": "Described herein are techniques for a hybrid distributed hydroculture system. A set of growing profiles (605) is stored, wherein each growing profile (605) defines a set of growing parameters for a type (200,201,202,203,204) of plant. Data is received that is indicative of a growing profile (605) being associated with a plant growing unit in communication with the computing device. A set of growing parameters is transmitted from the growing profile (605) to the plant growing unit so that the plant growing unit can execute the growing parameters to grow a plant that is planted in the plant growing unit. Sensor data is received from the plant growing unit indicative of data from one or more sensors locally installed at the plant growing unit. The set of growing parameters is customized based on the sensor data from the plant growing unit to customize the parameters for the plant environment."
+  }
+]
